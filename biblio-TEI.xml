@@ -1,0 +1,1689 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliographie Ofuda</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>CRCAO - UMR 8155 (CNRS / PSL Research University / EPHE / U. Paris Diderot /
+          Collège de France)</authority>
+        <publisher>CRCAO - UMR 8155 (CNRS / PSL Research University / EPHE / U. Paris Diderot /
+          Collège de France)</publisher>
+        <address>
+          <addrLine>52 rue du Cardinal Lemoine</addrLine>
+          <addrLine>75005 Paris</addrLine>
+        </address>
+        <distributor>
+          <name>TGIR Huma-Num - UMS 3598</name>
+          <address>
+            <addrLine>54 boulevard Raspail</addrLine>
+            <addrLine>75006 Paris</addrLine>
+          </address>
+        </distributor>
+        <availability status="free">
+          <p>Ce texte est protégé par la licence <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+            Commons</ref> dont le contenu est disponible sous Creative Commons Attribution -Non
+            commercial - ShareAlike 4.0 France</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>phpMyAdmin XML Dump (version 4.8.3)</p>
+        <p>Généré le <date>ven. 12 oct. 2018 à 13:14</date>
+        </p>
+        <p>Version du serveur :  5.7.23-0ubuntu0.18.04.1</p>
+        <p>Version de PHP :  7.2.10-0ubuntu0.18.04.1</p>
+        <p>Source issue du site: <ref target="http://ofuda.crcao.fr/bibliographie.php">http://ofuda.crcao.fr/bibliographie.php</ref>.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <listBibl>
+        <biblStruct xml:id="bibl2" n="2">
+          <monogr>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+            <title level="m">Kata-imi et Kata-tagae, Etude sur les interdits de direction à l'époque Heian</title>
+            <imprint>
+              <publisher>Bulletin de la Maison franco-japonaise</publisher>
+              <pubPlace>Tokyo et Paris</pubPlace>
+              <date when="1958">1958</date>
+            </imprint>
+          </monogr>
+          <series>Nouvelle série V, 2-4</series>
+          <note>Version augmentée et corrigée : en japonais (Tokyo, Iwanami-shoten, 1989); en français (Paris, Institut des Hautes Etudes Japonaises du Collège de France, 1998).</note>
+        </biblStruct>
+        <biblStruct xml:id="bibl3" n="3">
+          <monogr>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+            <author>
+              <surname>Fukazawa</surname>
+              <forename>Shichirô</forename>
+            </author>
+            <title level="m">Etude à propos des chansons de Narayama, traduction de Narayama bushi kô</title>
+            <idno type="ISBN">2070226107</idno>
+            <imprint>
+              <publisher>Gallimard</publisher>
+              <pubPlace>Paris</pubPlace>
+              <date when="1959">1959</date>
+            </imprint>
+          </monogr>
+          <note>éd. révisée avec postface, (même éditeur, coll. Folio, 1980). Trad. allemande, italienne, catalane.</note>
+        </biblStruct>
+        <biblStruct xml:id="bibl6" n="6">
+          <monogr>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+            <title level="m">Histoires qui sont maintenant du passé (Konjaku-monogatari shû) - introduction, traduction et commentaires</title>
+            <idno type="ISBN">9782070709229</idno>
+            <imprint>
+              <publisher>Gallimard</publisher>
+              <pubPlace>Paris</pubPlace>
+              <date when="1968">1968</date>
+            </imprint>
+          </monogr>
+          <note>Edition révisée, 1987.</note>
+        </biblStruct>
+        <biblStruct xml:id="bibl18" n="18">
+          <monogr>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+            <title level="m">L'intérêt pour les religions japonaises dans la France du XIXe siècle et les collections d'Emile Guimet</title>
+            <idno type="ISBN">2130389694</idno>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>PUF (Essais et conférences du Collège de France)</publisher>
+              <date when="1986">1986</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl25" n="25">
+          <monogr>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+            <title level="m">Le panthéon bouddhique au Japon - Collections d'Emile Guimet</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Réunion des Musées Nationaux</publisher>
+              <date when="1991">1991</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl32" n="32">
+          <monogr>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+            <title level="m">Fûryû to oni – Heian no hikari to yami, trad. par Junko Frank et alii</title>
+            <imprint>
+              <pubPlace>Tokyo</pubPlace>
+              <publisher>Heibonsha</publisher>
+              <date when="1998">1998</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl33" n="33">
+          <monogr>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+            <title level="m">Amour, couleur, colère – Essais sur le bouddhisme au Japon</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Institut des Hautes Etudes Japonaises du Collège de France</publisher>
+              <date when="2000">2000</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl34" n="34">
+          <monogr>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+            <title level="m">Dieux et Bouddhas au Japon</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Odile Jacob</publisher>
+              <date when="2000">2000</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl36" n="36">
+          <monogr>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+            <title level="m">"Ofuda" ni miru Nihon bukkyô 「お札」にみる日本仏教 (Le bouddhisme japonais à travers les images pieuses, traduit en japonais par Junko Frank 仏蘭久淳子</title>
+            <idno type="ISBN">4-89434-532-3</idno>
+            <imprint>
+              <pubPlace>Tokyo</pubPlace>
+              <publisher>Fujiwara shoten</publisher>
+              <date when="2006">2006</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl48" n="48" xml:lang="ja">
+          <monogr>
+            <author>
+              <surname>ZJIM</surname>
+            </author>
+            <author>
+              <surname>全国寺院名鑑</surname>
+            </author>
+            <title level="m">『全国寺院名鑑』(Répertoire des temples et monastères du pays). 四巻.東京・全日本仏教界・寺院名鑑刊行会、1969、（1970第二版） 1.北海道・東北・関東篇 2.中部篇 3.近畿篇 4.中国・四国・九州篇</title>
+            <imprint>
+              <date when="1970">1970</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <!--<biblStruct xml:id="bibl49" n="49">
+          <monogr>
+            <author>
+              <surname>ZJIM</surname>
+            </author>
+            <author>
+              <surname>全国寺院名鑑</surname>
+            </author>
+            <title level="m">『全国寺院名鑑』(Répertoire des temples et monastères du pays). 四巻.東京・全日本仏教界・寺院名鑑刊行会、1969、（1970第二版） 1.北海道・東北・関東篇 2.中部篇 3.近畿篇 4.中国・四国・九州篇</title>
+            <imprint>
+              <date when="1970">1970</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl50" n="50">
+          <monogr>
+            <author>
+              <surname>ZJIM</surname>
+            </author>
+            <author>
+              <surname>全国寺院名鑑</surname>
+            </author>
+            <title level="m">『全国寺院名鑑』(Répertoire des temples et monastères du pays). 四巻.東京・全日本仏教界・寺院名鑑刊行会、1969、（1970第二版） 1.北海道・東北・関東篇 2.中部篇 3.近畿篇 4.中国・四国・九州篇</title>
+            <imprint>
+              <date when="1970">1970</date>
+            </imprint>
+          </monogr>
+        </biblStruct>-->
+        <biblStruct xml:id="bibl51" n="51" xml:lang="ja">
+          <monogr>
+            <author>
+              <surname>Kikutake</surname>
+              <forename>Jun.ichi</forename>
+            </author>
+            <author>
+              <surname>菊竹 竹</surname>
+              <forename>淳一</forename>
+            </author>
+            <title level="m">菊竹淳一編『日本の美術』7.　No. 218 「仏教版画」.東京:至文堂、</title>
+            <imprint>
+              <date when="1984">1984　(昭59)</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl52" n="52" xml:lang="ja">
+          <monogr>
+            <author>
+              <surname>Mitsui</surname>
+              <forename>Atsuo</forename>
+            </author>
+            <author>
+              <surname>三井</surname>
+            </author>
+            <title level="m">三井淳生 『日本の仏教版画—祈りと護りの背かい—』(Les estampes bouddhiques du Japon - Le monde de la prière et de la protection)</title>
+            <imprint>
+              <publisher>東京</publisher>
+              <pubPlace>岩崎美術社、昭和六十一年。</pubPlace>
+              <date when="1986">1986</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl53" n="53">
+          <monogr>
+            <author>
+              <surname>Strickmann</surname>
+              <forename>Michel</forename>
+            </author>
+            <title level="m">Mantras et mandarins, Le bouddhisme tantrique en Chine</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>NRF Editions Gallimard (Bibliothèques des Sciences Humaines)</publisher>
+              <date when="1996">1996</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl54" n="54" xml:lang="ja">
+          <monogr>
+            <author>
+              <surname>Yamada, Etai 山田恵諦</surname>
+            </author>
+            <title level="m">『元三大師』. 大津:延暦寺、1959 (昭和34). 東京:第一書房、1979 (昭和64)</title>
+            <imprint>
+              <date when="1959">1959</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl57" n="57" xml:lang="ja">
+          <monogr>
+            <author>
+              <surname>Nihon mingeikan</surname>
+            </author>
+            <author>
+              <surname>日本民藝館</surname>
+            </author>
+            <title level="m">日本民藝館編『柳宗悦蒐集・日本民藝大鑑』全五巻。</title>
+            <imprint>
+              <pubPlace>東京</pubPlace>
+              <publisher>筑摩書房、昭和五十七年</publisher>
+              <date when="1982">1982</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl58" n="58" xml:lang="ja">
+          <monogr>
+            <author>
+              <surname>Murayama</surname>
+              <forename>Shûichi</forename>
+            </author>
+            <author>
+              <surname>村山</surname>
+              <forename>修一</forename>
+            </author>
+            <title level="m">村山修一『古代仏教の中世的展開』 (La propagation du bouddhisme ancien au Moyen Âge)</title>
+            <imprint>
+              <pubPlace>京都</pubPlace>
+              <publisher>法蔵館、昭和51</publisher>
+              <date when="1976">1976</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl59" n="59">
+          <monogr>
+            <author>
+              <surname>Graham</surname>
+              <forename>Patricia J.</forename>
+            </author>
+            <title level="m">Faith and Power in Japanese Buddhist Art 1600-2005</title>
+            <imprint>
+              <pubPlace>Honolulu</pubPlace>
+              <publisher>niversity of Hawai'i Press</publisher>
+              <date when="2007">2007</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl62" n="62">
+          <monogr>
+            <author>
+              <surname>Ishida, Mosaku</surname>
+            </author>
+            <title level="m">Japanese Buddhist Prints; English adaption by Charles S. Terry</title>
+            <imprint>
+              <pubPlace>Tokyo</pubPlace>
+              <publisher>Kodansha International</publisher>
+              <date when="1964">1964</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl63" n="63" xml:lang="ja">
+          <monogr>
+            <author>
+              <surname>Togawa</surname>
+            </author>
+            <title level="m">戸川安章著『出羽三山の絵札』</title>
+            <imprint>
+              <pubPlace>鶴岡市</pubPlace>
+              <publisher>東北出版企画</publisher>
+              <date when="1976">1976（昭51）</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl65" n="65">
+          <monogr>
+            <author>
+              <surname>Anderson</surname>
+              <forename>William</forename>
+            </author>
+            <title level="m">Japanese Wood Engravings-Their History, Technique and Characteristics</title>
+            <imprint>
+              <pubPlace>London/New York</pubPlace>
+              <publisher>Seeley/Macmillan</publisher>
+              <date when="1895">1895</date>
+            </imprint>
+            <extent>80 p.</extent>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl76" n="76" xml:lang="ja">
+          <monogr>
+            <author>
+              <surname>Hatakeyama</surname>
+              <forename>Yutaka</forename>
+            </author>
+            <author>
+              <surname>畠山</surname>
+              <forename>豊</forename>
+            </author>
+            <title level="m">畠山豊編「熊谷清司コレクションを中心に　護符・祈りの版画　—　神札と寺札　—」『町田市立博物館』弟27集</title>
+            <imprint>
+              <pubPlace>町田市</pubPlace>
+              <publisher>町田市立博物館、</publisher>
+              <date when="1981">1981(昭56). 昭和56年3月三日〜四月12日の展示会図録。</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl77" n="77">
+          <monogr>
+            <author>
+              <surname>Carter</surname>
+              <forename>Thomas Francis</forename>
+            </author>
+            <title level="m">The Invention of Printing in China and Its Spread Westward</title>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>The Ronald Press Co.</publisher>
+              <date when="1955">1955 (2nd Edition, rev. by L. Carrington Goodrich)</date>
+            </imprint>
+          </monogr>
+          
+        </biblStruct>
+        <biblStruct xml:id="bibl78" n="78" xml:lang="ja">
+          <monogr>
+            <author>
+              <surname>Shimazu</surname>
+              <forename>Norifumi</forename>
+            </author>
+            <author>
+              <surname>嶋津 図</surname>
+              <forename>宣史</forename>
+            </author>
+            <title level="m">嶋津宣史「日本の護符・解説」("The Japanese charm – An explanation"), 『神道文化』弟十四号　(Shintô Culture) , 2003.</title>
+            <imprint>
+              <date when="2003">2003 (No. XIV)</date>
+              <biblScope from="31" to="54">31-54</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl82" n="82" xml:lang="ja">
+          <monogr>
+            <author>
+              <surname>笹間良彦</surname>
+              <forename>Yoshihiko</forename>
+            </author>
+            <title level="m">『弁才天信仰と俗信』東京:　雄山閣、1991（平3）</title>
+            <imprint>
+              <date when="1991">1991</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl79" n="79">
+          <monogr>
+            <author>
+              <surname>Baskett</surname>
+              <forename>Mary W.</forename>
+            </author>
+            <title level="m">Footprints of the Buddha - Japanese Buddhist Prints from American and Japanese Collections</title>
+            <imprint>
+              <pubPlace>Philadelphia</pubPlace>
+              <publisher>Philadelphia Museum of Art (Exh. cat. Philadelphia Museum of Art, August 23 to October 26)</publisher>
+              <date when="1980">1980</date>
+            </imprint>
+            <extent>In-folio, softcover, 125 p.</extent>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl85" n="85">
+          <monogr>
+            <author>
+              <surname>Ducor</surname>
+              <forename>Jérôme</forename>
+            </author>
+            <title level="m">Hônen : Le gué vers la Terre pure (Senchakushû), traduit du sino-japonais, présenté et annoté par Jérôme Ducor</title>
+            <idno type="ISBN">2-213-61738-4</idno>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Librairie Arthème Fayard (col. Trésors du bouddhisme)</publisher>
+              <date when="2005">2005</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl120" n="120">
+          <monogr>
+            <author>
+              <surname>Sawa</surname>
+              <forename>Ryūken 佐和隆研</forename>
+            </author>
+            <title level="m">Butsuzō zūten 仏像図典 (1962)</title>
+            <edition>3e éd. augment.</edition>
+            <imprint>
+              <pubPlace>Tōkyō</pubPlace>
+              <publisher>Yohikawa Kōbunkan</publisher>
+              <date when="1993">1993</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl88" n="88">
+          <monogr>
+            <author>
+              <surname>Frédéric</surname>
+              <forename>Louis</forename>
+            </author>
+            <title level="m">Les dieux du bouddhisme, Guide iconographique</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Flammarion</publisher>
+              <date when="1992">1992</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl89" n="89">
+          <monogr>
+            <author>
+              <surname>Ducor</surname>
+              <forename>Jérôme</forename>
+            </author>
+            <author>
+              <surname>Loveday</surname>
+              <forename>Helen</forename>
+            </author>
+            <title level="m">Le Sūtra des contemplations du Buddha Vie-Infinie, essai d'interprétation textuelle et iconographique</title>
+            <imprint>
+              <pubPlace>Turnhout</pubPlace>
+              <publisher>Brepols (Publications de l'Ecole Pratique des Hautes Etudes - Sciences religieuses, 145)</publisher>
+              <date when="2011">2011</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl91" n="91">
+          <monogr>
+            <author>
+              <surname>Gizan 義山</surname>
+            </author>
+            <title level="m">Butsuzô zui 佛像圖彙 (Encyclopédie illustrée des images bouddhiques).</title>
+            <imprint>
+              <date when="1690">1690</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl92" n="92">
+          <monogr>
+            <author>
+              <surname>Gizan 義山</surname>
+            </author>
+            <title level="m">Butsuzô zui 佛像圖彙 (Encyclopédie illustrée des images bouddhiques); illustrations Tosa Hidenobu 土佐秀信.</title>
+            <imprint>
+              <date when="1783">1783</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl96" n="96">
+          <monogr>
+            <author>
+              <surname>Ducor</surname>
+              <forename>Jérôme</forename>
+            </author>
+            <title level="m">Shinran, un réformateur bouddhiste dans le Japon médiéval</title>
+            <imprint>
+              <pubPlace>Gollion</pubPlace>
+              <publisher>Infolio éditions (col. Le Maître et le disciple)</publisher>
+              <date when="2008">2008</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl100" n="100">
+          <monogr>
+            <author>
+              <surname>Ōtani</surname>
+              <forename>Chōjun</forename>
+            </author>
+            <author>
+              <forename>大谷帳順</forename>
+            </author>
+            <title level="m">Pages de Shinran</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>PUF (Bulletin de la Maison Franco-Japonaise, N. S., T. IX, N° 1)</publisher>
+              <date when="1969">1969</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl101" n="101">
+          <monogr>
+            <author>
+              <surname>Lubac</surname>
+              <nameLink>de</nameLink>
+              <forename>Henri</forename>
+            </author>
+            <title level="m">Amida</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Seuil (Aspects du Bouddhisme, II) (rééd. à paraître in Œuvres complètes, t. XXI)</publisher>
+              <date when="1955">1955</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl104" n="104">
+          <monogr>
+            <author>
+              <surname>Gira</surname>
+              <forename>Dennis</forename>
+            </author>
+            <title level="m">Le sens de la conversion dans l'enseignement de Shinran</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Maisonneuve &amp;amp; Larose (Collège de France, Bibliothèque de l'Institut des Hautes Études Japonaises)</publisher>
+              <date when="1985">1985</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl105" n="105">
+          <monogr>
+            <author>
+              <surname>Tajima</surname>
+              <forename>Ryûjun 田島隆純</forename>
+            </author>
+            <title level="m">Les deux grands mandalas et la doctrine de l'ésotérisme Shingon</title>
+            <imprint>
+              <pubPlace>Tôkyô</pubPlace>
+              <publisher>Maison Franco-Japonaise. (réimpr. Tôkyô, Gokokuji, 1984)</publisher>
+              <date when="1959">1959</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl107" n="107">
+          <monogr>
+            <author>
+              <surname>Elisseeff</surname>
+              <forename>Danielle</forename>
+            </author>
+            <author>
+              <surname>Vadime</surname>
+            </author>
+            <title level="m">L'art de l'ancien Japon</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Editions d'art Lucien Mazenod (L'art et les grandes civilisations)</publisher>
+              <date when="1980">1980</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl108" n="108">
+          <monogr>
+            <author>
+              <surname>Saunders</surname>
+              <forename>E. Dale</forename>
+            </author>
+            <title level="m">Mudrā, A Study of Symbolic Gestures in Japanese Buddhist Sculpture</title>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Bollingen Series, LVIII</publisher>
+              <date when="1960">1960</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl109" n="109">
+          <monogr>
+            <author>
+              <surname>Okazaki</surname>
+              <forename>Jôji 岡崎譲治</forename>
+            </author>
+            <title level="m">Pure Land Buddhist Painting (trl. and adapt. by Elizbeth ten Grotenhuis)</title>
+            <imprint>
+              <pubPlace>Tokyo</pubPlace>
+              <publisher>Kodanshsa International and Shibundo</publisher>
+              <date when="1977">1977</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl110" n="110">
+          <monogr>
+            <author>
+              <surname>McCallum</surname>
+              <forename>Donald F.</forename>
+            </author>
+            <title level="m">Zenkōji and its Icon, A Study in Medieval Japanese Religious Art</title>
+            <imprint>
+              <pubPlace>Princeton</pubPlace>
+              <publisher>Princeton University Press</publisher>
+              <date when="1994">1994</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl112" n="112" xml:lang="ja">
+          <monogr>
+            <author>
+              <surname>Mitsumori</surname>
+              <forename>Masashi 光森正士</forename>
+            </author>
+            <title level="m">Amida Nyorai zô 阿弥陀如来像; Nihon no bijutsu, 241.</title>
+            <imprint>
+              <date when="1986">1986</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl113" n="113">
+          <monogr>
+            <author>
+              <surname>Rambach</surname>
+              <forename>Pierre</forename>
+            </author>
+            <title level="m">Le Bouddha secret du tantrisme japonais</title>
+            <imprint>
+              <pubPlace>Genève</pubPlace>
+              <publisher>Editions d'art Albert Skira</publisher>
+              <date when="1978">1978</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl114" n="114">
+          <monogr>
+            <author>
+              <surname>De Visser</surname>
+              <forename>Marinus Willem</forename>
+            </author>
+            <title level="m">Ancient Buddhism in Japan : Sūtras and Ceremonies in Use in the Seventh and Eighth Centuries A.D., and their History in Latter Times</title>
+            <imprint>
+              <pubPlace>Paris / Leiden</pubPlace>
+              <publisher>Librairie Orientaliste Paul Geuthner / F.J. Brill, 1928-1935 (rpr. 1966).</publisher>
+              <date>1928-1935</date>
+            </imprint>
+            <extent>2 vol. (Buddhica, 1ère série, tome III)</extent>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl116" n="116">
+          <monogr>
+            <author>
+              <surname>Ducor</surname>
+              <forename>Jérôme</forename>
+            </author>
+            <title level="m">Le regard de Kannon</title>
+            <imprint>
+              <pubPlace>Glion / Genève</pubPlace>
+              <publisher>Infolio éditions / Musée d'ethnographie</publisher>
+              <date when="2010">2010</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl118" n="118">
+          <monogr>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+            <title level="m">Nihon bukkyô mandara 日本仏教曼荼羅; trad. Junko Frank 仏蘭久淳子</title>
+            <imprint>
+              <pubPlace>Tôkyô</pubPlace>
+              <publisher>Fujiwara shoten</publisher>
+              <date when="2002">2002 (7e tirage 2003)</date>
+            </imprint>
+          </monogr>
+          <note>La jaquette porte le sous-titre : "Le panthéon bouddhique au Japon"</note>
+        </biblStruct>
+        <biblStruct xml:id="bibl119" n="119">
+          <monogr>
+            <author>
+              <surname>Fujishima</surname>
+              <forename>Ryauon [Ryôon] 藤島了穩</forename>
+            </author>
+            <title level="m">Le bouddhisme japonais, Doctrines et histoire des douze grandes sectes bouddhiques du Japon</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Maisonneuve et Ch. Leclerc</publisher>
+              <date when="1889">1889</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl121" n="121">
+          <monogr>
+            <author>
+              <surname>Kuno</surname>
+              <forename>Takeshi 久野健</forename>
+            </author>
+            <title level="m">Edo butsuzō zūten 江戸仏像図典</title>
+            <imprint>
+              <pubPlace>Tōkyō</pubPlace>
+              <publisher>Tōkyōdō Shuppan</publisher>
+              <date when="1994">1994</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl122" n="122">
+          <monogr>
+            <author>
+              <surname>Van Gulik</surname>
+              <forename>Robert Hans</forename>
+            </author>
+            <title level="m">Hayagriva, the Mantrayanic Aspect of Horse-Cult in China and Japan</title>
+            <idno type="ISBN">9745240745</idno>
+            <imprint>
+              <pubPlace>Leiden</pubPlace>
+              <publisher>E. J. Brill. (Repr.: Hayagriva, the Horse-Cult in Asia) / Bangkok / Hong Kong, Orchid Press, 2005, 2008</publisher>
+              <date when="1935">1935</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl7" n="7">
+          <analytic>
+            <title level="a">Le bouddhisme japonais</title>
+            <author>
+              <surname>Renondeau</surname>
+              <forename>Gaston</forename>
+            </author>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <author role="dir">
+              <surname>Puech</surname>
+              <forename>Charles-Henri</forename>
+            </author>
+            <title level="m">Histoire des religions</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Gallimard (Encyclopédie de la Pléiade, 29)</publisher>
+              <date when="1970">1970</date>
+              <biblScope unit="volume">T. I</biblScope>
+              <biblScope unit="page" from="1320" to="1350">1320-1350</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl115" n="115">
+          <analytic>
+            <title level="a">Le bouddhisme au Japon</title>
+            <author>
+              <surname>Renondeau</surname>
+              <forename>Gaston</forename>
+            </author>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <author role="dir">
+              <surname>Berval</surname>
+              <nameLink>de</nameLink>
+              <forename>René</forename>
+            </author>
+            <title level="m">Présence du bouddhisme</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Gallimard (Bibliothèque illustrée des histoires)</publisher>
+              <date when="1987">1987</date>
+              <biblScope unit="page" from="615" to="650">615-650</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl16" n="16">
+          <analytic>
+            <title level="a">Postface</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <author role="dir">
+              <surname>Fujishima</surname>
+              <forename>R.</forename>
+            </author>
+            <title level="m">Les douze sectes bouddhiques du Japon</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Editions Trismégiste</publisher>
+              <date when="1982">1982</date>
+              <biblScope unit="page" from="161" to="187">161-187</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        
+        <biblStruct xml:id="bibl22" n="22">
+          <analytic>
+            <title level="a">Vacuité et corps actualisé : le problème de la présence des 'Personnages Vénérés' du bouddhisme dans leurs images selon la tradition du bouddhisme japonais</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">The Journal of the International Association of Buddhist Studies</title>
+            <imprint>
+              <date when="1988">1988</date>
+              <biblScope unit="volume">XI, 2</biblScope>
+              <biblScope unit="page" from="53" to="86">53-86</biblScope>
+            </imprint>
+          </monogr>
+          <note>(reprise, avec addenda et corigenda, d'une contribution publiée dans « Le temps de la réflexion VII, Le corps des dieux », Paris, Gallimard, 1986, p. 141-170). - Réédité : Frank 2000 A : 3-30.</note>
+        </biblStruct>
+        <biblStruct xml:id="bibl45" n="45">
+          <analytic>
+            <title level="a">From Conqueror of Evil to Devil King: Ryôgen and Notions of Ma in Medieval Japanese Buddhism</title>
+            <author>
+              <surname>Wakabayashi</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Monumenta Nipponica</title>
+            <imprint>
+              <date when="1999">1999</date>
+              <biblScope unit="volume">vol. 54/4</biblScope>
+              <biblScope unit="page" from="481" to="507">481-507</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <!--<biblStruct xml:id="bibl46" n="46">
+          <analytic>
+            <author>
+              <surname>Wakabayashi</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">"From Conqueror of Evil to Devil King: Ryôgen and Notions of Ma in Medieval Japanese Buddhism", in Monumenta Nipponica vol. 54/4, 1999, pp. 481-507.</title>
+            <imprint>
+              <date when="1999">1999</date>
+            </imprint>
+          </monogr>
+        </biblStruct>-->
+        <biblStruct xml:id="bibl47" n="47" xml:lang="ja">
+          <analytic>
+            <author>
+              <surname>Mizukami</surname>
+              <forename>Fumiyoshi</forename>
+            </author>
+            <author>
+              <surname>水上</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">水上文義 「伝民部法眼筆元三大師画像について」 『叡山学院研究紀要11』、95-114項。"A propos du portrait peint de Ganzan daishi attribué au Minbu Hôgen", in {Eizan gakuin kenkyû kiyô 11}, 1987, pp. 95-114.</title>
+            <imprint>
+              <date when="1987">1987</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl55" n="55" xml:lang="ja">
+          <analytic>
+            <author>
+              <surname>Mizukami</surname>
+              <forename>Fumiyoshi</forename>
+            </author>
+            <author>
+              <surname>水上文義</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">「伝・民部法眼筆『元三大師画像』について」、『叡山学院研究紀要』11、95-114項。</title>
+            <imprint>
+              <date when="1988">1988</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl56" n="56" xml:lang="ja">
+          <analytic>
+            <author>
+              <surname>Nishimura</surname>
+              <forename>Keishô</forename>
+            </author>
+            <author>
+              <surname>西村</surname>
+              <forename>冏紹</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">「西來寺『元三大師御影』騒動について」(A propos de la querelle autour du 'Portrait vénéré de Ganzan daishi' du Sairai-ji),『叡山学院研究紀要』6、1984（昭和59）、69-80項。</title>
+            <imprint>
+              <date when="1984">1984</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl64" n="64">
+          <analytic>
+            <title level="a">On the Early History of Printing in Japan</title>
+            <author>
+              <surname>Satow</surname>
+              <forename>Ernest</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Transactions of the Asiatic Society of Japan (TASJ)</title>
+            <imprint>
+              <date when="1882">1882</date>
+              <biblScope unit="volume">vol. X Part I</biblScope>
+              <biblScope unit="page" from="48" to="83">48-83</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl75" n="75" xml:lang="ja">
+          <analytic>
+            <author>
+              <surname>Narasaki</surname>
+              <forename>Muneshige</forename>
+            </author>
+            <author>
+              <surname>楢崎</surname>
+              <forename>宗重</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">「日本版画史論」上・中・下、『国宝』5の11・2、6の4</title>
+            <imprint>
+              <date when="1942">1942-1943</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl90" n="90">
+          <analytic>
+            <title level="a">L'objet fondamental de vénération dans le Jôdo-Shinshû</title>
+            <author>
+              <surname>Ducor</surname>
+              <forename>Jérôme</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Le Vase de béryl</title>
+            <imprint>
+              <date when="1997">1997</date>
+              <biblScope unit="page" from="87" to="94">87-94</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl93" n="93">
+          <analytic>
+            <title level="a">Le panthéon bouddhique au Japon et son iconographie</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Le grand atlas des religions</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Encyclopaedia Universalis</publisher>
+              <date when="1990">1990</date>
+              <biblScope unit="page" from="178" to="180">178-180</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl94" n="94">
+          <analytic>
+            <title level="a">Shandao et Hônen</title>
+            <author>
+              <surname>Ducor</surname>
+              <forename>Jérôme</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Journal of the International Association of Buddhist Studies</title>
+            <imprint>
+              <date when="1990">1990</date>
+              <biblScope unit="volume">22-1 (1999)</biblScope>
+              <biblScope unit="page" from="93" to="163">93-163</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl95" n="95">
+          <analytic>
+            <title level="a">L'iconographie de la “descente d'Amida”, traduit du japonais par Raymonde Linossier</title>
+            <author>
+              <surname>Minamoto, H[ōshū] 源豊宗</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Etudes d'orientalisme publiées à la mémoire de Raymonde Linossier</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Librairie Ernest Leroux</publisher>
+              <date when="1932">1932</date>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="page" from="99" to="129"></biblScope>
+            </imprint>
+            <extent>2 vol.</extent>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl103" n="103">
+          <analytic>
+            <title level="a">Sur la pensée unique</title>
+            <author>
+              <surname>Demiéville</surname>
+              <forename>Paul</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Bulletin de l'EFEO</title>
+            <imprint>
+              <date when="1924">1924</date>
+              <biblScope unit="volume">XXIV / 1924 (Hanoï, 1925)</biblScope>
+              <biblScope unit="page" from="231" to="246">231-246</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl106" n="106">
+          <analytic>
+            <title level="a">Les deux grands Mandala du bouddhisme tantrique japonais</title>
+            <author>
+              <surname>Eracle</surname>
+              <forename>Jean</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Bulletin annuel du Musée d'Ethnographie de la Ville de Genève</title>
+            <imprint>
+              <date when="1978">1978-1979</date>
+              <biblScope unit="volume">No 21-22 (1978-1979)</biblScope>
+              <biblScope unit="page" from="13" to="95">13-95</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl111" n="111">
+          <analytic>
+            <title level="a">La Sainte Image du Zenkôji</title>
+            <author>
+              <surname>Eracle</surname>
+              <forename>Jean</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Musées de Genève</title>
+            <imprint>
+              <date when="1989">1989</date>
+              <biblScope unit="volume">n ° 294 (1989)</biblScope>
+              <biblScope unit="page" from="2" to="7">2-7</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl117" n="117">
+          <analytic>
+            <title>Avalokiteśvara / Kouan-yin, Exemple de transformation d'un dieu en déesse</title>
+            <author>
+              <surname>Stein</surname>
+              <forename>Rolf A.</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Cahiers d'Extrême-Asie</title>
+            <imprint>
+              <date when="1986">1986</date>
+              <biblScope unit="volume">2</biblScope>
+              <biblScope unit="page" from="17" to="80">17-80</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        
+        <biblStruct xml:id="bibl4" n="4">
+          <analytic>
+            <title level="a">Le Panthéon bouddhique au Japon</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Mythologie des montagnes, des forêts et des îles</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Larousse</publisher>
+              <date when="1963">1963</date>
+              <biblScope unit="page" from="153" to="175">153-175</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl5" n="5">
+          <analytic>
+            <title level="a">Sept récits extraits du Konjaku monogatari-shû, [suivi de] Histoire d’un démon de la loggia d’Ichijô, de l’Ujishûi monogatari</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Anthologie du fantastique</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Gallimard</publisher>
+              <date when="1966">1966</date>
+              <biblScope unit="volume">T. II</biblScope>
+              <biblScope unit="page" from="543" to="563">543-563</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl8" n="8">
+          <analytic>
+            <title level="a">A propos de la "vieille année" et du printemps</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Asien, Tradition und Fortschritt, Festschrift für Horst Hammitzsch zu seinem 60. Geburtstag</title>
+            <imprint>
+              <date when="1971">1971</date>
+              <biblScope unit="page" from="103" to="116">103-116</biblScope>
+            </imprint>
+          </monogr>
+          <note>publié sous la responsabilité de L. Brüll et U. Kemper (Université de Bochum et Wiesbaden, Librairie Harrassowitz).</note>
+        </biblStruct>
+        <biblStruct xml:id="bibl9" n="9">
+          <analytic>
+            <title level="a">Quelques aperçus sur la littérature bouddhique de Heian</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Nichifutsu-bunka</title>
+            <imprint>
+              <pubPlace>Tokyo</pubPlace>
+              <publisher>Maison franco-japonaise</publisher>
+              <date when="1973">1973</date>
+              <biblScope unit="volume">n° 28</biblScope>
+              <biblScope unit="page" from="58" to="82">58-82</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl10" n="10">
+          <analytic>
+            <title level="a">Les études japonaises</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Cinquante ans d'orientalisme en France (1922-1972), numéro spécial du Journal Asiatique pour le cent-cinquantenaire de la Société Asiatique</title>
+            <imprint>
+              <date when="1973">1973</date>
+              <biblScope unit="page" from="255" to="295">255-295</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl11" n="11">
+          <analytic>
+            <title level="a">En collaboration avec Shôkichi Iyanaga : « La Maison franco-japonaise, son histoire, son organisation, ses buts »</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Nichifutsu-bunka</title>
+            <imprint>
+              <date when="1974">1974</date>
+              <biblScope unit="volume">31, numéro spécial consacré au cinquantenaire de la Maison</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl12" n="12">
+          <analytic>
+            <title level="a">A la source de la cascade, souvenirs d'un japonisant</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">La Nouvelle Revue Française</title>
+            <imprint>
+              <date when="1977">1977</date>
+              <biblScope unit="volume">numéro spécial de juillet : Hommage à André Malraux</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl13" n="13">
+          <analytic>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Annuaire de l'Ecole pratique des Hautes Etudes IVe section, de 1965-1966 à (Livret) 1978-1979.</title>
+            <imprint>
+              <date when="1979">1979</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl14" n="14">
+          <analytic>
+            <title level="a">L'Ile flottante - Ukishima - de la poésie japonaise : réalité ou fiction ?</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Mélanges offerts à M. Charles Haguenauer en l'honneur de son quatre-vingtième anniversaire - Etudes japonaises</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>« Bibliothèque de l'Institut des Hautes Etudes japonaises » du Collège de France</publisher>
+              <date when="1980">1980</date>
+              <biblScope unit="page" from="233" to="254">233-254</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl15" n="15">
+          <analytic>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Collège de France, Chaire de Civilisation japonaise, Leçon inaugurale faite le Vendredi 29 février 1980. Edition révisée avec traduction japonaise, dans « Publications de la Maison franco-japonaise », Tokyo, même année.</title>
+            <imprint>
+              <date when="1981">1981</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl17" n="17">
+          <analytic>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Participation à : Les relations franco-japonaises - Bilan et perspectives, Rapport au « Comité des sages » et à : La France et le Japon - images réciproques, Paris, La Documentation française, p. 115-119.</title>
+            <imprint>
+              <date when="1984">1984</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl19" n="19">
+          <analytic>
+            <title level="a">Coup de foudre</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Japon Fiction</title>
+            <imprint>
+              <publisher>Centre national d'art et de culture Georges Pompidou (Traverses 38-39)</publisher>
+              <date when="1986">1986</date>
+              <biblScope unit="page" from="46" to="53">46-53</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl20" n="20">
+          <analytic>
+            <title level="a">Entre idéogrammes chinois et syllabaire japonais : l'étonnant exemple d'un texte susceptible d'une lecture en deux langues</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Actes du colloque Espaces de la lecture (« Ecritures III »)</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Retz</publisher>
+              <date when="1988">1988</date>
+              <biblScope unit="page" from="85" to="95">85-95</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl21" n="21">
+          <analytic>
+            <title level="a">La double vérité du Buddha : unité et pluralité</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Vérité poétique et vérité scientifique, volume offert à Gilbert Gadoffre</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>PUF</publisher>
+              <date when="1988">1988</date>
+              <biblScope unit="page" from="199" to="213">199-213</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl23" n="23">
+          <analytic>
+            <title level="a">L'expérience d'un malheur absolu : son refus et son dépassement. L'histoire de la mère de Jôjin</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Comptes rendus de l'Académie des Inscriptions et Belles-Lettres, (avril-juin)</title>
+            <imprint>
+              <date when="1989">1989</date>
+              <biblScope unit="page" from="472" to="488">472-488 et Corrigenda insérés dans le numéro de novembre-décembre</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl24" n="24">
+          <analytic>
+            <title level="a">Les deva de la tradition bouddhique et la société japonaise : l'exemple d'Indra/Taishaku-ten</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <editor>
+              <surname>Forest</surname>
+              <forename>A.</forename>
+            </editor>
+            <editor>
+              <surname>Kato</surname>
+              <forename>E.</forename>
+            </editor>
+            <editor>
+              <surname>Vandermeersch</surname>
+              <forename>L.</forename>
+            </editor>
+            <title level="m">Bouddhismes et sociétés asiatiques - Clergés, sociétés et pouvoirs</title>
+            <imprint>
+              <pubPlace>Paris / Tokyo</pubPlace>
+              <publisher>L'Harmattan / Université Sophia</publisher>
+              <date when="1990">1990</date>
+              <biblScope unit="page" from="61" to="74">61-74</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl26" n="26" xml:lang="ja">
+          <analytic>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">« Efuda no ofuda » 「絵札のお札」; Nihon Chûgoku no shûkyô bunka no kenkyû 『日本・中国の宗教文化の研究』 (co-éd. : Sakai Tadao 酒井忠夫, Fukui Fumimasa 福井文雅, Yamada Toshiaki 山田利明 : Etudes sur les cultures des religions de la Chine et du Japon, Actes du 5ème colloque franco-japonais – Etudes orientales, Section 1, 1988), p. 3-25 (Tokyo, Hirakawa shuppansha 平川出版者, 1991).</title>
+            <imprint>
+              <date when="1991">1991</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl27" n="27">
+          <analytic>
+            <title level="a">L'image du bodhisattva Seishi du Kondo du Hôryûji retrouvée au musée Guimet - Le dossier documentaire</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Arts asiatiques</title>
+            <imprint>
+              <date when="1992">1992</date>
+              <biblScope unit="volume">XLVII</biblScope>
+              <biblScope unit="page" from="89" to="108">89-108</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl28" n="28">
+          <analytic>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Penser japonais, participation au cycle de conférences de l'Académie des Sciences morales et politiques pour 1992-1993, « Sur l'axe du temps. Du cosmos à l'homme, de l'histoire à la prospective ». Publication dans Revue des sciences morales et politiques, 1993, n° 3, p.423-438.</title>
+            <imprint>
+              <date when="1993">1993</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl29" n="29">
+          <analytic>
+            <title level="a">Amour, colère, couleur - variations sur Aizen-myôô</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <editor>
+              <surname>Fukui</surname>
+              <forename>Fumimasa</forename>
+            </editor>
+            <editor>
+              <surname>Fussman</surname>
+              <forename>Gérard</forename>
+            </editor>
+            <title level="m">Bouddhisme et cultures locales - quelques cas de réciproques adaptations. Actes du colloque franco-japonais de septembre 1991</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Ecole Française d'Extrême-Orient (« Etudes Thématiques 2 »)</publisher>
+              <date when="1994">1994</date>
+              <biblScope unit="page" from="247" to="271">247-271</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl30" n="30">
+          <analytic>
+            <title level="a">Une grande figure du panthéon bouddhique au Japon, Bishamon-ten</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Japon Pluriel, Actes du premier colloque de la Société française des études japonaises</title>
+            <imprint>
+              <pubPlace>Arles</pubPlace>
+              <publisher>Philippe Picquier</publisher>
+              <date when="1995">1995</date>
+              <biblScope unit="page" from="11" to="41">11-41</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl31" n="31">
+          <analytic>
+            <title level="a">Une iconographie japonaise connue dans l’Europe du XVIe siècle à partir d’une faute de traduction, et sa réalisation ludique sous forme sculptée à notre époque</title>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Comptes rendus de l’Académie des Inscriptions et Belles-Lettres</title>
+            <imprint>
+              <date when="1996">1996</date>
+              <biblScope unit="volume">n° juillet-octobre</biblScope>
+              <biblScope unit="page" from="290" to="297">290-297</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl35" n="35">
+          <analytic>
+            <author>
+              <surname>Frank</surname>
+              <forename>Bernard</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Annuaire du Collège de France, depuis 1979-1980. L’ensemble des résumés des cours au Collège de France est réédité, avec une préface par J. Gernet, une introduction par J.-N. Robert et un index (Dieux et bouddhas au Japon, Paris, Odile Jacob, 2000).</title>
+            <imprint>
+              <date when="2000">2000</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl60" n="60" xml:lang="ja">
+          <analytic>
+            <author>
+              <surname>Kumatani</surname>
+            </author>
+            <author>
+              <surname>熊谷清司</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">「祈りの版画」『銀花』第三十六号、1978</title>
+            <imprint>
+              <date when="1978">1978</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl83" n="83">
+          <analytic>
+            <title level="a">The snake in Japanese superstition</title>
+            <author>
+              <surname>De Visser</surname>
+              <forename>Marinus W.</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Mitteilungen des Seminars für Orientalische Sprachen</title>
+            <imprint>
+              <date when="1911">1911</date>
+              <biblScope unit="volume">vol. 14</biblScope>
+              <biblScope unit="page" from="262" to="321">262-321</biblScope>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl84" n="84" xml:lang="ja">
+          <analytic>
+            <author>
+              <surname>Takazaki</surname>
+              <forename>Kôtetsu</forename>
+            </author>
+            <author>
+              <surname>高崎</surname>
+              <forename>光哲</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">『東寺の全貌』("Tout sur le Tô-ji")。京都:　東寺顕揚会、1936.</title>
+            <imprint>
+              <date when="1936">1936</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl86" n="86">
+          <analytic>
+            <author>
+              <surname>Chandra, Lokesh</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Dictionnary of Buddhist Iconography</title>
+            <imprint>
+              <pubPlace>New Delhi</pubPlace>
+              <publisher>International Academy of Indian Culture and Aditya Prakashan (Śata-Piṭaka Series, Indo-Asian Literatures)</publisher>
+              <date from="2000" to="2005">2000-2005</date>
+              <biblScope unit="volume">Vol. 601-606, 608-616</biblScope>
+            </imprint>
+            <extent>15 vol.</extent>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl87" n="87" xml:lang="ja">
+          <analytic>
+            <author>
+              <surname>Coates</surname>
+              <forename>Harper Havelock</forename>
+            </author>
+            <author>
+              <surname>Ishizuka</surname>
+              <forename>Ryûgaku 石塚龍學</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Hōnen, The Buddhist Saint : His Life and Teachings compiled by Imperial Order [Shunshô 舜昌 (1255-1335) : Hônen Shônin gyôjô ezu 法然上人行状繪圖, ou Chokushiden]; Kyôto, Chion'in, 1925; 2e éd. Tôkyô, Kōdôkaku, 1930.</title>
+            <imprint>
+              <date when="1925">1925</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl97" n="97">
+          <analytic>
+            <author>
+              <surname>Renondeau</surname>
+              <forename>Gaston</forename>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Le shugendô, histoire, doctrine et rites des anachorètes dits yamabushi</title>
+            <imprint>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Imprimerie Nationale (Cahiers de la Société Asiatique, XVIII)</publisher>
+              <date when="1965">1965</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl98" n="98">
+          <analytic>
+            <title level="a">Hōbōgirin 法寶義林</title>
+          </analytic>
+          <monogr>
+            <author role="dir">
+              <surname>Lévi</surname>
+              <forename>Sylvain</forename>
+            </author>
+            <author role="dir">
+              <surname>Takakusu</surname>
+              <forename>J[unjirō]</forename>
+            </author>
+            <author role="dir">
+              <surname>Demiéville</surname>
+              <forename>Paul</forename>
+            </author>
+            <author role="dir">
+              <surname>Gernet</surname>
+              <forename>Jacques</forename>
+            </author>
+            <title level="m">Dictionnaire encyclopédique du bouddhisme d'après les sources chinoises et japonaises</title>
+            <imprint>
+              <pubPlace>Tōkyō / Paris</pubPlace>
+              <publisher>Maison Franco-Japonaise / Maisonneuve</publisher>
+              <date when="1929">1929</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct xml:id="bibl99" n="99">
+          <monogr>
+            <editor>
+              <surname>Pigeot</surname>
+              <forename>Jacqueline</forename>
+            </editor>
+            <editor>
+              <surname>Hartmut</surname>
+              <forename>O. Rotermund</forename>
+            </editor>
+            <title level="m">Le Vase de béryl, Études sur le Japon et la Chine en hommage à Bernard Frank</title>
+            <imprint>
+              <pubPlace>Arles</pubPlace>
+              <publisher>Editions Philippe Picquier</publisher>
+              <date when="1997">1997</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </listBibl>
+    </body>
+  </text>
+</TEI>

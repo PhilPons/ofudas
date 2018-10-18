@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Glossaire Ofuda</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>CRCAO - UMR 8155 (CNRS / PSL Research University / EPHE / U. Paris Diderot /
+          Collège de France)</authority>
+        <publisher>CRCAO - UMR 8155 (CNRS / PSL Research University / EPHE / U. Paris Diderot /
+          Collège de France)</publisher>
+        <address>
+          <addrLine>52 rue du Cardinal Lemoine</addrLine>
+          <addrLine>75005 Paris</addrLine>
+        </address>
+        <distributor>
+          <name>TGIR Huma-Num - UMS 3598</name>
+          <address>
+            <addrLine>54 boulevard Raspail</addrLine>
+            <addrLine>75006 Paris</addrLine>
+          </address>
+        </distributor>
+        <availability status="free">
+          <p>Ce texte est protégé par la licence <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+            Commons</ref> dont le contenu est disponible sous Creative Commons Attribution - Non
+            commercial - ShareAlike 4.0 France</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <p>phpMyAdmin XML Dump (version 4.8.3)</p>
+        <p>Généré le <date>ven. 12 oct. 2018 à 13:14</date>
+        </p>
+        <p>Version du serveur :  5.7.23-0ubuntu0.18.04.1</p>
+        <p>Version de PHP :  7.2.10-0ubuntu0.18.04.1</p>
+        <p>Source issue du site Ofuda: <ref target="http://ofuda.crcao.fr/glossaire.php">http://ofuda.crcao.fr/glossaire.php</ref>.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <entry xml:id="gloss22" n="22">
+        <form xml:lang="ja">
+          <orth>縁結び</orth>
+        </form>
+        <def xml:lang="fr">"lien noué", nouer un bon lien...</def>
+        <def xml:lang="ja">縁結び（えんむすび）</def>
+      </entry>
+      <entry xml:id="gloss20" n="20">
+        <form xml:lang="fr">
+          <orth>bouddha</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>仏</orth>
+        </form>
+        <def xml:lang="fr">"celui qui est éveillé" ; abréviation de la transcription butsuda. --> Hotoke ; Nyorai</def>
+        <def xml:lang="ja">仏（ぶつ）</def>
+      </entry>
+      <entry xml:id="gloss21" n="21">
+        <form xml:lang="ja">
+          <orth>福寿円満</orth>
+        </form>
+        <def xml:lang="fr">(voeu de) bonne fortune et longue vie</def>
+        <def xml:lang="ja">福寿円満（ふくじゅえんまん）</def>
+      </entry>
+      <entry xml:id="gloss23" n="23">
+        <form xml:lang="fr">
+          <orth>éveil</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>悟り</orth>
+        </form>
+        <def xml:lang="fr">sanskrit : bodhi --> bodai</def>
+        <def xml:lang="ja">悟り（さとり）</def>
+      </entry>
+      <entry xml:id="gloss33" n="33">
+        <form xml:lang="fr">
+          <orth>image (représentation, portrait)</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>御影</orth>
+        </form>
+        <def xml:lang="fr">image (représentation, portrait), d'un personnage (divinité bouddhique personnalisée, saint homme comme Kûkai, etc.) ; aussi utilisé pour ofuda portant l'image de ce personnage.</def>
+        <def xml:lang="ja">御影　(みえい,　みえ, ごえい )</def>
+      </entry>
+      <entry xml:id="gloss24" n="24">
+        <form xml:lang="fr">
+          <orth>extinction</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>涅槃</orth>
+        </form>
+        <def xml:lang="fr">sanskrit: nirvâna</def>
+        <def xml:lang="ja">涅槃（ねはん）</def>
+      </entry>
+      <entry xml:id="gloss25" n="25">
+        <form xml:lang="ja">
+          <orth>世尊</orth>
+        </form>
+        <def xml:lang="fr">celui que le monde doit vénérer en premier Sanskrit: Bhagavat</def>
+        <def xml:lang="ja">世尊（せそん）</def>
+      </entry>
+      <entry xml:id="gloss26" n="26">
+        <form xml:lang="ja">
+          <orth>如来</orth>
+        </form>
+        <def xml:lang="fr">"celui qui est venu (/qui est allé) ainsi", c'est à dire "d'une manière conforme à la Réalité, à la Nature des choses telle quelle est" Sanskrit : tathâgata</def>
+        <def xml:lang="ja">如来（にょらい）</def>
+      </entry>
+      <entry xml:id="gloss27" n="27">
+        <form xml:lang="ja">
+          <orth>妙法蓮華経</orth>
+        </form>
+        <def xml:lang="fr">"Sûtra du Lotus de la Loi sublime" L'un des textes fondateurs du Grand Véhicule Sanskrit: Saddharmapundarîka --> Hokekyō</def>
+        <def xml:lang="ja">妙法蓮華経 （みょうほうれんげきょう）〔ミョウホウレンゲキヤウ〕 --> 法華経</def>
+      </entry>
+      <entry xml:id="gloss28" n="28">
+        <form xml:lang="fr">
+          <orth>les Cinq marques de déchéance des dieux (deva/devi)</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>天人五衰</orth>
+        </form>
+        <def xml:lang="fr">Leurs yeux qui ne cillent jamais, cillent, Les couronnes de fleurs de leur tête, qui ne se flétrissent jamais; se flétrissent, Leur vêtements que la poussièrene souille jamais, s'en trouvent souillés, Eux que la sueur n'inonde jamais, lq sueur leur coule sous les aisselles, Ils ne reconnaissent plus le siège qui leur est propre et s'assoient n'importe où. Source : Konjaku monogatari (Frank 2000 : 93)</def>
+        <def xml:lang="ja">天人の五衰 (tennin no gosui)</def>
+      </entry>
+      <entry xml:id="gloss31" n="31">
+        <form xml:lang="ja">
+          <orth>如意宝珠　ou 摩尼</orth>
+        </form>
+        <def xml:lang="fr">du sk.: mani = sino-jap.: nyoihôju "gemme magique génératrice de tous les biens souhaités" (Frank 1990 : 103) "gemme qui comble les désirs" (cf. Intro à Benzai-ten)</def>
+        <def xml:lang="ja">梵　mani (まに)= 如意宝珠(にょいほうじゅ)</def>
+      </entry>
+      <entry xml:id="gloss30" n="30">
+        <form xml:lang="fr">
+          <orth>image (représentation, portrait)</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>御尊影</orth>
+        </form>
+        <def xml:lang="fr">un des termes japonais pour (l'image sur) le ofuda</def>
+        <def xml:lang="ja">御尊影　(ごそんえい)</def>
+      </entry>
+      <entry xml:id="gloss32" n="32">
+        <form xml:lang="fr">
+          <orth>Palais beau à voir</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>喜見城 ou 善見城</orth>
+        </form>
+        <def xml:lang="fr">Nom de la résidence du dieu Indra qui, selon la cosmogonie bouddhique traditionnelle, se trouve au sommet du mont Sumeru. (Frank 1990 : 99)</def>
+        <def xml:lang="ja">喜見城(きけんじょう；梵: Sudarsana)または善見城(ぜんけんじょう)： 須弥山の頂にあるとされる、帝釈天が住む城の名</def>
+      </entry>
+      <entry xml:id="gloss36" n="36">
+        <form xml:lang="ja">
+          <orth>身心健康</orth>
+        </form>
+        <def xml:lang="fr">(voeu de) santé du corps et de l'âme</def>
+        <def xml:lang="ja">心身健康　(しんしんけんこう)</def>
+      </entry>
+      <entry xml:id="gloss35" n="35">
+        <form xml:lang="fr">
+          <orth></orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>家内安全</orth>
+        </form>
+        <def xml:lang="fr">(voeu de) sécurité de la famille</def>
+        <def xml:lang="ja">家内安全　(かないあんぜん)</def>
+      </entry>
+      <entry xml:id="gloss37" n="37">
+        <form xml:lang="ja">
+          <orth>諸災消除</orth>
+        </form>
+        <def xml:lang="fr">(voeu de) vie libre de toute calamité et de mauvaise fortune</def>
+        <def xml:lang="ja">諸災消除　(しょさいしょうじょ)</def>
+      </entry>
+      <entry xml:id="gloss38" n="38">
+        <form xml:lang="fr">
+          <orth>"certificat de (souscription à la) quête"</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>勧進札</orth>
+        </form>
+        <def xml:lang="fr">"comprenant à la fois une image et des indications relatives à l'identité du donateur, au montant et à la date du don" (Frank 2000 : 321)</def>
+      </entry>
+      <entry xml:id="gloss39" n="39">
+        <form xml:lang="fr">
+          <orth>"estampe à valeur de talisman" (ou d'amulette)</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>護符版画</orth>
+        </form>
+        <def xml:lang="fr">Traduction de B. Frank (2000 : 324) de gofu hanga, terme employé par Kikutake J. (1984 : 59-60) pour caractériser le dévéloppement de l'estampe en ofuda illustrés à grand tirage de l'ère moderne.</def>
+        <def xml:lang="ja">菊竹（1984:　59-60）が尊像を版画化して護符とする過程を示す時に使う類語をB. Frank (2000 : 324)は佛訳する。</def>
+      </entry>
+      <entry xml:id="gloss40" n="40">
+        <form xml:lang="fr">
+          <orth>"certificat de (souscription à la) quête"</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>勧進札　　・　勧進護符　　</orth>
+        </form>
+        <def xml:lang="fr">Traduction du terme kanjin-fuda ou kanjin-hanga utilisés par Kikutake J. (1984 : 35-52) par B. Frank (2000 : 321).</def>
+        <def xml:lang="ja">菊竹(1984 : 35-52)が使う勧進版画か勧進札のB. Frank (2000 : 321)の佛訳。</def>
+      </entry>
+      <entry xml:id="gloss43" n="43">
+        <form xml:lang="fr">
+          <orth>joyau, "gemme qui comble les désirs"</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>宝珠、摩尼、如意宝珠</orth>
+        </form>
+        <def xml:lang="fr">Voir nyoi-hôju</def>
+        <def xml:lang="ja">如意宝珠を見よ</def>
+      </entry>
+      <entry xml:id="gloss44" n="44">
+        <form xml:lang="fr">
+          <orth>"gemme qui comble les désirs"</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>如意宝珠</orth>
+        </form>
+        <def xml:lang="fr"></def>
+        <def xml:lang="ja">宝珠、または摩尼を見よ</def>
+      </entry>
+      <entry xml:id="gloss45" n="45">
+        <form xml:lang="fr">
+          <orth>joyau, "gemme qui comble les désirs"</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>摩尼</orth>
+        </form>
+        <def xml:lang="fr">voir aussi nyoi-hôju, hôju </def>
+        <def xml:lang="ja">如意宝珠、または宝珠を見よ</def>
+      </entry>
+      <entry xml:id="gloss46" n="46">
+        <form xml:lang="fr">
+          <orth>"joyau trilobé"</orth>
+        </form>
+        <form xml:lang="ja">
+          <orth>さんべん宝珠</orth>
+        </form>
+        <def xml:lang="fr">trad. cf. Frank 1991: 206</def>
+      </entry>
+    </body>
+  </text>
+</TEI>
