@@ -2,6 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
+        <!--    caractère école: 宗    -->
         <title>Base d'O-Fuda de Bernard Frank</title>
       </titleStmt>
       <publicationStmt>
@@ -36,7 +37,7 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
- <text>
+ <text type="frank">
      <body>
         <div type="categories">
  <div xml:id="A" n="1">
