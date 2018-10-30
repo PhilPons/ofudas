@@ -52,7 +52,7 @@
         <form xml:lang="ja">
           <orth>仏</orth>
         </form>
-        <def xml:lang="fr">"celui qui est éveillé" ; abréviation de la transcription butsuda. --> Hotoke ; Nyorai</def>
+        <def xml:lang="fr">"celui qui est éveillé" ; abréviation de la transcription butsuda. --&gt; Hotoke ; Nyorai</def>
         <def xml:lang="ja">仏（ぶつ）</def>
       </entry>
       <entry xml:id="gloss21" n="21">
@@ -69,7 +69,7 @@
         <form xml:lang="ja">
           <orth>悟り</orth>
         </form>
-        <def xml:lang="fr">sanskrit : bodhi --> bodai</def>
+        <def xml:lang="fr">sanskrit : bodhi --&gt; bodai</def>
         <def xml:lang="ja">悟り（さとり）</def>
       </entry>
       <entry xml:id="gloss33" n="33">
@@ -110,8 +110,8 @@
         <form xml:lang="ja">
           <orth>妙法蓮華経</orth>
         </form>
-        <def xml:lang="fr">"Sûtra du Lotus de la Loi sublime" L'un des textes fondateurs du Grand Véhicule Sanskrit: Saddharmapundarîka --> Hokekyō</def>
-        <def xml:lang="ja">妙法蓮華経 （みょうほうれんげきょう）〔ミョウホウレンゲキヤウ〕 --> 法華経</def>
+        <def xml:lang="fr">"Sûtra du Lotus de la Loi sublime" L'un des textes fondateurs du Grand Véhicule Sanskrit: Saddharmapundarîka --&gt; Hokekyō</def>
+        <def xml:lang="ja">妙法蓮華経 （みょうほうれんげきょう）〔ミョウホウレンゲキヤウ〕 --&gt; 法華経</def>
       </entry>
       <entry xml:id="gloss28" n="28">
         <form xml:lang="fr">
@@ -159,7 +159,7 @@
       </entry>
       <entry xml:id="gloss35" n="35">
         <form xml:lang="fr">
-          <orth></orth>
+          <orth/>
         </form>
         <form xml:lang="ja">
           <orth>家内安全</orth>
@@ -220,7 +220,7 @@
         <form xml:lang="ja">
           <orth>如意宝珠</orth>
         </form>
-        <def xml:lang="fr"></def>
+        <def xml:lang="fr"/>
         <def xml:lang="ja">宝珠、または摩尼を見よ</def>
       </entry>
       <entry xml:id="gloss45" n="45">

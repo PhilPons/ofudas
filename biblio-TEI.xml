@@ -1049,7 +1049,7 @@
               <publisher>Librairie Ernest Leroux</publisher>
               <date when="1932">1932</date>
               <biblScope unit="volume">1</biblScope>
-              <biblScope unit="page" from="99" to="129"></biblScope>
+              <biblScope unit="page" from="99" to="129"/>
             </imprint>
             <extent>2 vol.</extent>
           </monogr>
