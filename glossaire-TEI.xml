@@ -44,6 +44,10 @@
         </form>
         <def xml:lang="fr">"lien noué", nouer un bon lien...</def>
         <def xml:lang="ja">縁結び（えんむすび）</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#B-02-72"/>
+          <ptr type="ofuda" target="#C-04-03"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss20" n="20">
         <form xml:lang="fr">
@@ -54,6 +58,103 @@
         </form>
         <def xml:lang="fr">"celui qui est éveillé" ; abréviation de la transcription butsuda. --&gt; Hotoke ; Nyorai</def>
         <def xml:lang="ja">仏（ぶつ）</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#A-01-01"/>
+          <ptr type="ofuda" target="#A-01-02"/>
+          <ptr type="ofuda" target="#A-01-03"/>
+          <ptr type="ofuda" target="#A-01-08"/>
+          <ptr type="ofuda" target="#A-01-09"/>
+          <ptr type="ofuda" target="#A-02-01"/>
+          <ptr type="ofuda" target="#A-02-06"/>
+          <ptr type="ofuda" target="#A-02-09"/>
+          <ptr type="ofuda" target="#A-02-10"/>
+          <ptr type="ofuda" target="#A-02-11"/>
+          <ptr type="ofuda" target="#A-02-12"/>
+          <ptr type="ofuda" target="#A-02-13"/>
+          <ptr type="ofuda" target="#A-02-18"/>
+          <ptr type="ofuda" target="#A-02-21"/>
+          <ptr type="ofuda" target="#A-02-22"/>
+          <ptr type="ofuda" target="#A-02-29"/>
+          <ptr type="ofuda" target="#A-03-04"/>
+          <ptr type="ofuda" target="#A-03-08"/>
+          <ptr type="ofuda" target="#A-03-10"/>
+          <ptr type="ofuda" target="#A-03-15"/>
+          <ptr type="ofuda" target="#A-03-17"/>
+          <ptr type="ofuda" target="#A-03-21"/>
+          <ptr type="ofuda" target="#A-03-25"/>
+          <ptr type="ofuda" target="#A-04-04"/>
+          <ptr type="ofuda" target="#A-04-11"/>
+          <ptr type="ofuda" target="#B-02-125"/>
+          <ptr type="ofuda" target="#B-02-151"/>
+          <ptr type="ofuda" target="#B-02-160"/>
+          <ptr type="ofuda" target="#B-02-24"/>
+          <ptr type="ofuda" target="#B-02-25"/>
+          <ptr type="ofuda" target="#B-02-34"/>
+          <ptr type="ofuda" target="#B-02-65"/>
+          <ptr type="ofuda" target="#B-02-76"/>
+          <ptr type="ofuda" target="#B-02-89"/>
+          <ptr type="ofuda" target="#B-03-02"/>
+          <ptr type="ofuda" target="#B-04-01"/>
+          <ptr type="ofuda" target="#B-04-11"/>
+          <ptr type="ofuda" target="#B-05-06"/>
+          <ptr type="ofuda" target="#B-05-09"/>
+          <ptr type="ofuda" target="#B-05-11"/>
+          <ptr type="ofuda" target="#B-05-12"/>
+          <ptr type="ofuda" target="#B-05-14"/>
+          <ptr type="ofuda" target="#B-05-18"/>
+          <ptr type="ofuda" target="#B-06-03"/>
+          <ptr type="ofuda" target="#B-06-07"/>
+          <ptr type="ofuda" target="#B-06-08"/>
+          <ptr type="ofuda" target="#B-06-14"/>
+          <ptr type="ofuda" target="#B-06-15"/>
+          <ptr type="ofuda" target="#B-06-16"/>
+          <ptr type="ofuda" target="#B-06-23"/>
+          <ptr type="ofuda" target="#B-06-27"/>
+          <ptr type="ofuda" target="#B-06-34"/>
+          <ptr type="ofuda" target="#B-06-36"/>
+          <ptr type="ofuda" target="#C-03-03"/>
+          <ptr type="ofuda" target="#C-03-14"/>
+          <ptr type="ofuda" target="#C-03-53"/>
+          <ptr type="ofuda" target="#D-02-02"/>
+          <ptr type="ofuda" target="#D-02-03"/>
+          <ptr type="ofuda" target="#D-04-12"/>
+          <ptr type="ofuda" target="#D-04-15"/>
+          <ptr type="ofuda" target="#D-05-07"/>
+          <ptr type="ofuda" target="#D-05-20"/>
+          <ptr type="ofuda" target="#D-05-22"/>
+          <ptr type="ofuda" target="#D-05-25"/>
+          <ptr type="ofuda" target="#D-05-30"/>
+          <ptr type="ofuda" target="#D-06-23"/>
+          <ptr type="ofuda" target="#D-11-04"/>
+          <ptr type="ofuda" target="#D-13-01"/>
+          <ptr type="ofuda" target="#E-03-16"/>
+          <ptr type="ofuda" target="#E-06-01"/>
+          <ptr type="ofuda" target="#E-06-02"/>
+          <ptr type="ofuda" target="#E-06-05"/>
+          <ptr type="ofuda" target="#E-11-11"/>
+          <ptr type="ofuda" target="#E-11-b-1"/>
+          <ptr type="ofuda" target="#E-11-b-2"/>
+          <ptr type="ofuda" target="#F-04-01"/>
+          <ptr type="ofuda" target="#F-04-07"/>
+          <ptr type="ofuda" target="#F-04-09"/>
+          <ptr type="ofuda" target="#F-05-07"/>
+          <ptr type="ofuda" target="#F-07-10"/>
+          <ptr type="ofuda" target="#F-07-18"/>
+          <ptr type="ofuda" target="#F-08-02"/>
+          <ptr type="ofuda" target="#F-08-07"/>
+          <ptr type="ofuda" target="#F-08-08"/>
+          <ptr type="ofuda" target="#F-08-09"/>
+          <ptr type="ofuda" target="#F-08-10"/>
+          <ptr type="ofuda" target="#F-08-11"/>
+          <ptr type="ofuda" target="#F-08-15"/>
+          <ptr type="ofuda" target="#F-08-18"/>
+          <ptr type="ofuda" target="#F-08-24"/>
+          <ptr type="ofuda" target="#F-10-01"/>
+          <ptr type="ofuda" target="#F-12-05"/>
+          <ptr type="ofuda" target="#F-13-05"/>
+          <ptr type="ofuda" target="#F-13-07"/>
+          <ptr type="ofuda" target="#G-02-02"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss21" n="21">
         <form xml:lang="ja">
@@ -61,6 +162,10 @@
         </form>
         <def xml:lang="fr">(voeu de) bonne fortune et longue vie</def>
         <def xml:lang="ja">福寿円満（ふくじゅえんまん）</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#D-05-33"/>
+          <ptr type="ofuda" target="#E-05-c-02"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss23" n="23">
         <form xml:lang="fr">
@@ -71,6 +176,10 @@
         </form>
         <def xml:lang="fr">sanskrit : bodhi --&gt; bodai</def>
         <def xml:lang="ja">悟り（さとり）</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#A-01-09"/>
+          <ptr type="ofuda" target="#D-05-27"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss33" n="33">
         <form xml:lang="fr">
@@ -81,6 +190,48 @@
         </form>
         <def xml:lang="fr">image (représentation, portrait), d'un personnage (divinité bouddhique personnalisée, saint homme comme Kûkai, etc.) ; aussi utilisé pour ofuda portant l'image de ce personnage.</def>
         <def xml:lang="ja">御影　(みえい,　みえ, ごえい )</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#A-02-09"/>
+          <ptr type="ofuda" target="#A-02-15"/>
+          <ptr type="ofuda" target="#A-03-14"/>
+          <ptr type="ofuda" target="#B-02-110"/>
+          <ptr type="ofuda" target="#B-02-157"/>
+          <ptr type="ofuda" target="#B-06-10"/>
+          <ptr type="ofuda" target="#B-06-11"/>
+          <ptr type="ofuda" target="#B-06-34"/>
+          <ptr type="ofuda" target="#C-03-12"/>
+          <ptr type="ofuda" target="#C-07-01"/>
+          <ptr type="ofuda" target="#C-07-02"/>
+          <ptr type="ofuda" target="#D-05-07"/>
+          <ptr type="ofuda" target="#D-05-26"/>
+          <ptr type="ofuda" target="#D-06-03"/>
+          <ptr type="ofuda" target="#D-08-03"/>
+          <ptr type="ofuda" target="#D-08-07"/>
+          <ptr type="ofuda" target="#D-09-03"/>
+          <ptr type="ofuda" target="#D-11-04"/>
+          <ptr type="ofuda" target="#D-19-01"/>
+          <ptr type="ofuda" target="#E-03-12"/>
+          <ptr type="ofuda" target="#E-10-03"/>
+          <ptr type="ofuda" target="#E-11-35"/>
+          <ptr type="ofuda" target="#E-12-17"/>
+          <ptr type="ofuda" target="#F-08-02"/>
+          <ptr type="ofuda" target="#F-08-03"/>
+          <ptr type="ofuda" target="#F-08-04"/>
+          <ptr type="ofuda" target="#F-08-05"/>
+          <ptr type="ofuda" target="#F-08-06"/>
+          <ptr type="ofuda" target="#F-08-07"/>
+          <ptr type="ofuda" target="#F-08-08"/>
+          <ptr type="ofuda" target="#F-08-09"/>
+          <ptr type="ofuda" target="#F-08-10"/>
+          <ptr type="ofuda" target="#F-08-11"/>
+          <ptr type="ofuda" target="#F-08-12"/>
+          <ptr type="ofuda" target="#F-08-14"/>
+          <ptr type="ofuda" target="#F-08-15"/>
+          <ptr type="ofuda" target="#F-08-18"/>
+          <ptr type="ofuda" target="#F-11-01"/>
+          <ptr type="ofuda" target="#F-11-03"/>
+          <ptr type="ofuda" target="#F-13-01"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss24" n="24">
         <form xml:lang="fr">
@@ -91,6 +242,10 @@
         </form>
         <def xml:lang="fr">sanskrit: nirvâna</def>
         <def xml:lang="ja">涅槃（ねはん）</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#A-01-05"/>
+          <ptr type="ofuda" target="#A-01-09"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss25" n="25">
         <form xml:lang="ja">
@@ -98,6 +253,9 @@
         </form>
         <def xml:lang="fr">celui que le monde doit vénérer en premier Sanskrit: Bhagavat</def>
         <def xml:lang="ja">世尊（せそん）</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#D-10-03"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss26" n="26">
         <form xml:lang="ja">
@@ -105,6 +263,86 @@
         </form>
         <def xml:lang="fr">"celui qui est venu (/qui est allé) ainsi", c'est à dire "d'une manière conforme à la Réalité, à la Nature des choses telle quelle est" Sanskrit : tathâgata</def>
         <def xml:lang="ja">如来（にょらい）</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#A-01-01"/>
+          <ptr type="ofuda" target="#A-01-02"/>
+          <ptr type="ofuda" target="#A-01-03"/>
+          <ptr type="ofuda" target="#A-01-05"/>
+          <ptr type="ofuda" target="#A-01-06"/>
+          <ptr type="ofuda" target="#A-01-07"/>
+          <ptr type="ofuda" target="#A-01-14"/>
+          <ptr type="ofuda" target="#A-02-01"/>
+          <ptr type="ofuda" target="#A-02-02"/>
+          <ptr type="ofuda" target="#A-02-03"/>
+          <ptr type="ofuda" target="#A-02-04"/>
+          <ptr type="ofuda" target="#A-02-05"/>
+          <ptr type="ofuda" target="#A-02-06"/>
+          <ptr type="ofuda" target="#A-02-08"/>
+          <ptr type="ofuda" target="#A-02-09"/>
+          <ptr type="ofuda" target="#A-02-10"/>
+          <ptr type="ofuda" target="#A-02-11"/>
+          <ptr type="ofuda" target="#A-02-12"/>
+          <ptr type="ofuda" target="#A-02-13"/>
+          <ptr type="ofuda" target="#A-02-14"/>
+          <ptr type="ofuda" target="#A-02-15"/>
+          <ptr type="ofuda" target="#A-02-16"/>
+          <ptr type="ofuda" target="#A-02-17"/>
+          <ptr type="ofuda" target="#A-02-18"/>
+          <ptr type="ofuda" target="#A-02-19"/>
+          <ptr type="ofuda" target="#A-02-21"/>
+          <ptr type="ofuda" target="#A-02-22"/>
+          <ptr type="ofuda" target="#A-02-23"/>
+          <ptr type="ofuda" target="#A-02-24"/>
+          <ptr type="ofuda" target="#A-02-25"/>
+          <ptr type="ofuda" target="#A-02-28"/>
+          <ptr type="ofuda" target="#A-02-29"/>
+          <ptr type="ofuda" target="#A-03-01"/>
+          <ptr type="ofuda" target="#A-03-03"/>
+          <ptr type="ofuda" target="#A-03-04"/>
+          <ptr type="ofuda" target="#A-03-05"/>
+          <ptr type="ofuda" target="#A-03-06"/>
+          <ptr type="ofuda" target="#A-03-09"/>
+          <ptr type="ofuda" target="#A-03-10"/>
+          <ptr type="ofuda" target="#A-03-11"/>
+          <ptr type="ofuda" target="#A-03-12"/>
+          <ptr type="ofuda" target="#A-03-14"/>
+          <ptr type="ofuda" target="#A-03-15"/>
+          <ptr type="ofuda" target="#A-03-16"/>
+          <ptr type="ofuda" target="#A-03-17"/>
+          <ptr type="ofuda" target="#A-03-18"/>
+          <ptr type="ofuda" target="#A-03-19"/>
+          <ptr type="ofuda" target="#A-03-20"/>
+          <ptr type="ofuda" target="#A-03-21"/>
+          <ptr type="ofuda" target="#A-03-22"/>
+          <ptr type="ofuda" target="#A-03-23"/>
+          <ptr type="ofuda" target="#A-03-24"/>
+          <ptr type="ofuda" target="#A-03-25"/>
+          <ptr type="ofuda" target="#A-03-26"/>
+          <ptr type="ofuda" target="#A-03-28"/>
+          <ptr type="ofuda" target="#A-03-29"/>
+          <ptr type="ofuda" target="#A-04-01"/>
+          <ptr type="ofuda" target="#A-04-02"/>
+          <ptr type="ofuda" target="#A-04-03"/>
+          <ptr type="ofuda" target="#A-04-04"/>
+          <ptr type="ofuda" target="#A-04-06"/>
+          <ptr type="ofuda" target="#A-04-07"/>
+          <ptr type="ofuda" target="#A-04-08"/>
+          <ptr type="ofuda" target="#A-04-09"/>
+          <ptr type="ofuda" target="#A-04-10"/>
+          <ptr type="ofuda" target="#A-04-13"/>
+          <ptr type="ofuda" target="#B-02-89"/>
+          <ptr type="ofuda" target="#B-06-27"/>
+          <ptr type="ofuda" target="#D-05-11"/>
+          <ptr type="ofuda" target="#D-05-31"/>
+          <ptr type="ofuda" target="#D-10-03"/>
+          <ptr type="ofuda" target="#D-11-02"/>
+          <ptr type="ofuda" target="#E-12-01"/>
+          <ptr type="ofuda" target="#F-08-02"/>
+          <ptr type="ofuda" target="#F-08-03"/>
+          <ptr type="ofuda" target="#F-08-04"/>
+          <ptr type="ofuda" target="#F-08-24"/>
+          <ptr type="ofuda" target="#F-12-08"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss27" n="27">
         <form xml:lang="ja">
@@ -112,6 +350,20 @@
         </form>
         <def xml:lang="fr">"Sûtra du Lotus de la Loi sublime" L'un des textes fondateurs du Grand Véhicule Sanskrit: Saddharmapundarîka --&gt; Hokekyō</def>
         <def xml:lang="ja">妙法蓮華経 （みょうほうれんげきょう）〔ミョウホウレンゲキヤウ〕 --&gt; 法華経</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#D-02-01"/>
+          <ptr type="ofuda" target="#D-06-05"/>
+          <ptr type="ofuda" target="#D-06-46"/>
+          <ptr type="ofuda" target="#D-10-03"/>
+          <ptr type="ofuda" target="#D-11-02"/>
+          <ptr type="ofuda" target="#D-11-03"/>
+          <ptr type="ofuda" target="#D-11-09"/>
+          <ptr type="ofuda" target="#D-11-15"/>
+          <ptr type="ofuda" target="#D-18-02"/>
+          <ptr type="ofuda" target="#F-12-05"/>
+          <ptr type="ofuda" target="#F-12-08"/>
+          <ptr type="ofuda" target="#F-12-11"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss28" n="28">
         <form xml:lang="fr">
@@ -122,6 +374,7 @@
         </form>
         <def xml:lang="fr">Leurs yeux qui ne cillent jamais, cillent, Les couronnes de fleurs de leur tête, qui ne se flétrissent jamais; se flétrissent, Leur vêtements que la poussièrene souille jamais, s'en trouvent souillés, Eux que la sueur n'inonde jamais, lq sueur leur coule sous les aisselles, Ils ne reconnaissent plus le siège qui leur est propre et s'assoient n'importe où. Source : Konjaku monogatari (Frank 2000 : 93)</def>
         <def xml:lang="ja">天人の五衰 (tennin no gosui)</def>
+      
       </entry>
       <entry xml:id="gloss31" n="31">
         <form xml:lang="ja">
@@ -129,6 +382,7 @@
         </form>
         <def xml:lang="fr">du sk.: mani = sino-jap.: nyoihôju "gemme magique génératrice de tous les biens souhaités" (Frank 1990 : 103) "gemme qui comble les désirs" (cf. Intro à Benzai-ten)</def>
         <def xml:lang="ja">梵　mani (まに)= 如意宝珠(にょいほうじゅ)</def>
+      
       </entry>
       <entry xml:id="gloss30" n="30">
         <form xml:lang="fr">
@@ -139,6 +393,16 @@
         </form>
         <def xml:lang="fr">un des termes japonais pour (l'image sur) le ofuda</def>
         <def xml:lang="ja">御尊影　(ごそんえい)</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#C-03-03"/>
+          <ptr type="ofuda" target="#C-07-08"/>
+          <ptr type="ofuda" target="#C-07-09"/>
+          <ptr type="ofuda" target="#C-07-10"/>
+          <ptr type="ofuda" target="#D-04-16"/>
+          <ptr type="ofuda" target="#D-05-07"/>
+          <ptr type="ofuda" target="#D-11-15"/>
+          <ptr type="ofuda" target="#F-09-01"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss32" n="32">
         <form xml:lang="fr">
@@ -149,6 +413,7 @@
         </form>
         <def xml:lang="fr">Nom de la résidence du dieu Indra qui, selon la cosmogonie bouddhique traditionnelle, se trouve au sommet du mont Sumeru. (Frank 1990 : 99)</def>
         <def xml:lang="ja">喜見城(きけんじょう；梵: Sudarsana)または善見城(ぜんけんじょう)： 須弥山の頂にあるとされる、帝釈天が住む城の名</def>
+      
       </entry>
       <entry xml:id="gloss36" n="36">
         <form xml:lang="ja">
@@ -156,6 +421,7 @@
         </form>
         <def xml:lang="fr">(voeu de) santé du corps et de l'âme</def>
         <def xml:lang="ja">心身健康　(しんしんけんこう)</def>
+      
       </entry>
       <entry xml:id="gloss35" n="35">
         <form xml:lang="fr">
@@ -166,6 +432,22 @@
         </form>
         <def xml:lang="fr">(voeu de) sécurité de la famille</def>
         <def xml:lang="ja">家内安全　(かないあんぜん)</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#A-03-18"/>
+          <ptr type="ofuda" target="#A-03-22"/>
+          <ptr type="ofuda" target="#B-02-125"/>
+          <ptr type="ofuda" target="#C-03-46"/>
+          <ptr type="ofuda" target="#D-05-02"/>
+          <ptr type="ofuda" target="#D-05-04"/>
+          <ptr type="ofuda" target="#D-05-11"/>
+          <ptr type="ofuda" target="#D-05-27"/>
+          <ptr type="ofuda" target="#D-05-29"/>
+          <ptr type="ofuda" target="#D-05-34"/>
+          <ptr type="ofuda" target="#E-03-05"/>
+          <ptr type="ofuda" target="#E-05-01"/>
+          <ptr type="ofuda" target="#F-07-03"/>
+          <ptr type="ofuda" target="#F-13-08"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss37" n="37">
         <form xml:lang="ja">
@@ -173,6 +455,9 @@
         </form>
         <def xml:lang="fr">(voeu de) vie libre de toute calamité et de mauvaise fortune</def>
         <def xml:lang="ja">諸災消除　(しょさいしょうじょ)</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#A-02-02"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss38" n="38">
         <form xml:lang="fr">
@@ -182,6 +467,7 @@
           <orth>勧進札</orth>
         </form>
         <def xml:lang="fr">"comprenant à la fois une image et des indications relatives à l'identité du donateur, au montant et à la date du don" (Frank 2000 : 321)</def>
+      
       </entry>
       <entry xml:id="gloss39" n="39">
         <form xml:lang="fr">
@@ -192,6 +478,7 @@
         </form>
         <def xml:lang="fr">Traduction de B. Frank (2000 : 324) de gofu hanga, terme employé par Kikutake J. (1984 : 59-60) pour caractériser le dévéloppement de l'estampe en ofuda illustrés à grand tirage de l'ère moderne.</def>
         <def xml:lang="ja">菊竹（1984:　59-60）が尊像を版画化して護符とする過程を示す時に使う類語をB. Frank (2000 : 324)は佛訳する。</def>
+      
       </entry>
       <entry xml:id="gloss40" n="40">
         <form xml:lang="fr">
@@ -202,6 +489,7 @@
         </form>
         <def xml:lang="fr">Traduction du terme kanjin-fuda ou kanjin-hanga utilisés par Kikutake J. (1984 : 35-52) par B. Frank (2000 : 321).</def>
         <def xml:lang="ja">菊竹(1984 : 35-52)が使う勧進版画か勧進札のB. Frank (2000 : 321)の佛訳。</def>
+      
       </entry>
       <entry xml:id="gloss43" n="43">
         <form xml:lang="fr">
@@ -212,6 +500,7 @@
         </form>
         <def xml:lang="fr">Voir nyoi-hôju</def>
         <def xml:lang="ja">如意宝珠を見よ</def>
+      
       </entry>
       <entry xml:id="gloss44" n="44">
         <form xml:lang="fr">
@@ -222,6 +511,7 @@
         </form>
         <def xml:lang="fr"/>
         <def xml:lang="ja">宝珠、または摩尼を見よ</def>
+      
       </entry>
       <entry xml:id="gloss45" n="45">
         <form xml:lang="fr">
@@ -232,6 +522,11 @@
         </form>
         <def xml:lang="fr">voir aussi nyoi-hôju, hôju </def>
         <def xml:lang="ja">如意宝珠、または宝珠を見よ</def>
+      <linkGrp>
+          <ptr type="ofuda" target="#B-02-130"/>
+          <ptr type="ofuda" target="#D-02-02"/>
+          <ptr type="ofuda" target="#D-02-03"/>
+        </linkGrp>
       </entry>
       <entry xml:id="gloss46" n="46">
         <form xml:lang="fr">
@@ -241,6 +536,7 @@
           <orth>さんべん宝珠</orth>
         </form>
         <def xml:lang="fr">trad. cf. Frank 1991: 206</def>
+      
       </entry>
     </body>
   </text>
