@@ -37,10 +37,12 @@
       </sourceDesc>
     </fileDesc>
   </teiHeader>
- <text type="frank">
+ <text type="frank" n="1">
     <front>
       <head xml:lang="fr">Collection Bernard Frank</head>
+      <head xml:lang="ja">Collection Bernard Frank ja</head>
       <p xml:lang="fr">La collection ici présentée doit son existence même à notre regretté maître Bernard Frank (1927-1996), et nous nous permettons de dédier à sa mémoire ce travail, bien modeste au regard du catalogue monumental qu'il avait réalisé pour l'exposition du « Panthéon bouddhique au Japon - Collections d'Émile Guimet », dans ce même musée, en 1991. Le lien avec le Collège de France, où il occupa la chaire de « Civilisation japonaise » de 1979 à sa mort, s'est avéré si profond que le millier d'<hi rend="italic">ofuda</hi> qu'il avait rassemblés avec affection et patience au Japon tout au long d'une quarantaine d'années, ont fait en 2009 l'objet d'un legs à l'Institut des Hautes Études Japonaise du Collège. Que Junko, Louis et Renée Frank trouvent ici le témoignage de notre profonde gratitude pour avoir ainsi mis à la disposition de tous cette documentation unique sur la religiosité japonaise.</p>
+      <p xml:lang="ja">Présentation japonais</p>
     </front>
      <body>
         <div type="categories">
