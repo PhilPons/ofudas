@@ -41,10 +41,7 @@
       <listBibl>
         <biblStruct xml:id="bibl2" n="2">
           <monogr>
-            <author>
-              <surname>Frank</surname>
-              <forename>Bernard</forename>
-            </author>
+            <author><surname>Frank</surname><forename>Bernard</forename></author>
             <title level="m">Kata-imi et Kata-tagae, Etude sur les interdits de direction à l'époque Heian</title>
             <imprint>
               <publisher>Bulletin de la Maison franco-japonaise</publisher>
@@ -180,12 +177,12 @@
         <biblStruct xml:id="bibl48" n="48" xml:lang="ja">
           <monogr>
             <author>
-              <surname>ZJIM</surname>
+              <surname>Zjim</surname>
             </author>
             <author>
               <surname>全国寺院名鑑</surname>
             </author>
-            <title level="m">『全国寺院名鑑』(Répertoire des temples et monastères du pays). 四巻.東京・全日本仏教界・寺院名鑑刊行会、1969、（1970第二版） 1.北海道・東北・関東篇 2.中部篇 3.近畿篇 4.中国・四国・九州篇</title>
+            <title level="m">『全国寺院名鑑』 (Répertoire des temples et monastères du pays). 四巻.東京・全日本仏教界・寺院名鑑刊行会、1969、（1970第二版） 1.北海道・東北・関東篇 2.中部篇 3.近畿篇 4.中国・四国・九州篇</title>
             <imprint>
               <date when="1970">1970</date>
             </imprint>
@@ -315,12 +312,12 @@
           <monogr>
             <author>
               <surname>Graham</surname>
-              <forename>Patricia J.</forename>
+              <forename>Patricia J</forename>
             </author>
             <title level="m">Faith and Power in Japanese Buddhist Art 1600-2005</title>
             <imprint>
               <pubPlace>Honolulu</pubPlace>
-              <publisher>niversity of Hawai'i Press</publisher>
+              <publisher>University of Hawai'i Press</publisher>
               <date when="2007">2007</date>
             </imprint>
           </monogr>
@@ -409,10 +406,10 @@
               <surname>嶋津 図</surname>
               <forename>宣史</forename>
             </author>
-            <title level="m">嶋津宣史「日本の護符・解説」("The Japanese charm – An explanation"), 『神道文化』弟十四号　(Shintô Culture) , 2003.</title>
+            <title level="m">嶋津宣史「日本の護符・解説」 ("The Japanese charm – An explanation"), 『神道文化』弟十四号　(Shintô Culture)</title>
             <imprint>
               <date when="2003">2003 (No. XIV)</date>
-              <biblScope from="31" to="54">31-54</biblScope>
+              <biblScope from="31" to="54" unit="page">31-54</biblScope>
             </imprint>
           </monogr>
         </biblStruct>
@@ -432,7 +429,7 @@
           <monogr>
             <author>
               <surname>Baskett</surname>
-              <forename>Mary W.</forename>
+              <forename>Mary W</forename>
             </author>
             <title level="m">Footprints of the Buddha - Japanese Buddhist Prints from American and Japanese Collections</title>
             <imprint>
@@ -510,7 +507,7 @@
             <author>
               <surname>Gizan 義山</surname>
             </author>
-            <title level="m">Butsuzô zui 佛像圖彙 (Encyclopédie illustrée des images bouddhiques).</title>
+            <title level="m">Butsuzô zui 佛像圖彙 (Encyclopédie illustrée des images bouddhiques)</title>
             <imprint>
               <date when="1690">1690</date>
             </imprint>
@@ -521,7 +518,7 @@
             <author>
               <surname>Gizan 義山</surname>
             </author>
-            <title level="m">Butsuzô zui 佛像圖彙 (Encyclopédie illustrée des images bouddhiques); illustrations Tosa Hidenobu 土佐秀信.</title>
+            <title level="m">Butsuzô zui 佛像圖彙 (Encyclopédie illustrée des images bouddhiques); illustrations Tosa Hidenobu 土佐秀信</title>
             <imprint>
               <date when="1783">1783</date>
             </imprint>
@@ -582,7 +579,7 @@
             <title level="m">Le sens de la conversion dans l'enseignement de Shinran</title>
             <imprint>
               <pubPlace>Paris</pubPlace>
-              <publisher>Maisonneuve &amp;amp; Larose (Collège de France, Bibliothèque de l'Institut des Hautes Études Japonaises)</publisher>
+              <publisher>Maisonneuve &amp; Larose (Collège de France, Bibliothèque de l'Institut des Hautes Études Japonaises)</publisher>
               <date when="1985">1985</date>
             </imprint>
           </monogr>
@@ -943,7 +940,7 @@
             </author>
           </analytic>
           <monogr>
-            <title level="j">「西來寺『元三大師御影』騒動について」(A propos de la querelle autour du 'Portrait vénéré de Ganzan daishi' du Sairai-ji),『叡山学院研究紀要』6、1984（昭和59）、69-80項。</title>
+            <title level="j">「西來寺『元三大師御影』騒動について」 (A propos de la querelle autour du 'Portrait vénéré de Ganzan daishi' du Sairai-ji),『叡山学院研究紀要』6、1984（昭和59）、69-80項。</title>
             <imprint>
               <date when="1984">1984</date>
             </imprint>
@@ -961,7 +958,7 @@
             <title level="j">Transactions of the Asiatic Society of Japan (TASJ)</title>
             <imprint>
               <date when="1882">1882</date>
-              <biblScope unit="volume">vol. X Part I</biblScope>
+              <biblScope unit="volume">vol. X, Part I</biblScope>
               <biblScope unit="page" from="48" to="83">48-83</biblScope>
             </imprint>
           </monogr>
@@ -1049,7 +1046,7 @@
               <publisher>Librairie Ernest Leroux</publisher>
               <date when="1932">1932</date>
               <biblScope unit="volume">1</biblScope>
-              <biblScope unit="page" from="99" to="129"/>
+              <biblScope unit="page" from="99" to="129">99-129</biblScope>
             </imprint>
             <extent>2 vol.</extent>
           </monogr>

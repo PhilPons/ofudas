@@ -1614,7 +1614,7 @@
              <head xml:lang="fr">Références</head>
                     <head xml:lang="ja">参考文献</head>
              <ab xml:lang="fr">
-                     <ref target="#B-02-002" type="ofudaLink">B-2-02</ref>_1</ab>
+                     <ref target="#B-02-02" type="ofudaLink">B-2-02</ref>_1</ab>
              <ab xml:lang="ja">
                  <lb/>
              </ab>
@@ -13939,7 +13939,7 @@
              <head xml:lang="fr">Informations diverses</head>
                     <head xml:lang="ja">備考</head>
              <ab xml:lang="fr"/>
-             <ab xml:lang="ja">cf.<ref target="#B-02-1029" type="ofudaLink">B-2-129</ref>
+             <ab xml:lang="ja">cf.<ref target="#B-02-129" type="ofudaLink">B-2-129</ref>
                    </ab>
            </div>
            <div type="references">
