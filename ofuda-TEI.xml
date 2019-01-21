@@ -207,7 +207,7 @@
            </div>
            <div type="references">
              <head xml:lang="fr">Références</head>
-                    <head xml:lang="ja">参考文献</head>
+             <head xml:lang="ja">参考文献</head>
              <ab xml:lang="fr"/>
              <ab xml:lang="ja"/>
            </div>
@@ -3797,7 +3797,7 @@
              <graphic url="tn_A-02-29.jpg"/>
            </figure>
            <figure type="photos_big_ref">
-             <graphic url=""/>
+             <graphic url="A-2-29.JPG"/>
            </figure>
          </div>
        </div>
@@ -22229,7 +22229,7 @@
              <graphic url="tn_B-02-166.jpg"/>
            </figure>
            <figure type="photos_big_ref">
-             <graphic url=""/>
+             <graphic url="B-2-166.JPG"/>
            </figure>
          </div>
        </div>
@@ -40236,13 +40236,13 @@
            <div type="identification">
              <head xml:lang="fr">Identification</head>
                     <head xml:lang="ja">尊格名</head>
-             <ab xml:lang="fr">Benzai-ten (Sarasvatī), dite Oohora-Benzaiten fait partie des Sept Divinités du Bonheur d'ômi (selon le site<ref target="http://www.biwako-visitors.jp/search/spot.php?id=556">www.biwako-visitors.jp/search/spot.php</ref>, elle ferait partie des Trois Grandes Benzai-ten du Japon)</ab>
+             <ab xml:lang="fr">Benzai-ten (Sarasvatī), dite Oohora-Benzaiten fait partie des Sept Divinités du Bonheur d'ômi (selon le site <ref target="http://www.biwako-visitors.jp/search/spot.php?id=556">www.biwako-visitors.jp/search/spot.php</ref>, elle ferait partie des Trois Grandes Benzai-ten du Japon)</ab>
              <ab xml:lang="ja">弁財天（梵:　サラスヴァティー）、 通称　大洞弁財天 近江七福神の一つ （<ref target="http://www.biwako-visitors.jp/search/spot.php?id=556">www.biwako-visitors.jp/search/spot.php</ref>に拠ると、日本三大弁財天の一つといわれる）</ab>
            </div>
            <div type="provenance">
              <head xml:lang="fr">Provenance</head>
                     <head xml:lang="ja">発行寺社名</head>
-             <ab xml:lang="fr">Chôju-in (secte Shingon, branche du Daigo-ji) Benzaiten-dô Oohora Furuzawa-chô 1139 Hikone-shi Shiga-ken<ref target="http://www.biwako-visitors.jp/search/spot.php?id=556">www.biwako-visitors.jp/search/spot.php</ref>(ce site voudrait qu'il s'agisse d'une des Trois Grandes Benzai-ten du Japon)</ab>
+             <ab xml:lang="fr">Chôju-in (secte Shingon, branche du Daigo-ji) Benzaiten-dô Oohora Furuzawa-chô 1139 Hikone-shi Shiga-ken <ref target="http://www.biwako-visitors.jp/search/spot.php?id=556">www.biwako-visitors.jp/search/spot.php</ref>(ce site voudrait qu'il s'agisse d'une des Trois Grandes Benzai-ten du Japon)</ab>
              <ab xml:lang="ja">長寿院（真言宗醍醐派）弁財天堂 滋賀県　彦根市　大洞　古沢町1139<ref target="http://www.biwako-visitors.jp/search/spot.php?id=556">www.biwako-visitors.jp/search/spot.php</ref>
              </ab>
            </div>
@@ -46453,7 +46453,7 @@
              </ab>
            </div>
            <figure type="photos_small_ref">
-             <graphic url="tn_E-5-a40.JPG"/>
+             <graphic url="tn_E-5-a-40.JPG"/>
            </figure>
            <figure type="photos_big_ref">
              <graphic url=""/>
@@ -46539,7 +46539,7 @@
              </ab>
            </div>
            <figure type="photos_small_ref">
-             <graphic url="tn_E-5-a41.JPG"/>
+             <graphic url="tn_E-5-a-41.JPG"/>
            </figure>
            <figure type="photos_big_ref">
              <graphic url=""/>
@@ -62392,7 +62392,7 @@
              <graphic url="tn_E-12-11.JPG"/>
            </figure>
            <figure type="photos_big_ref">
-             <graphic url=""/>
+             <graphic url="E-12-11.JPG"/>
            </figure>
          </div>
          <div xml:id="E-12-12" n="653" type="E-12-12">
@@ -62478,7 +62478,7 @@
              <graphic url="tn_E-12-12.JPG"/>
            </figure>
            <figure type="photos_big_ref">
-             <graphic url=""/>
+             <graphic url="E-12-12.JPG"/>
            </figure>
          </div>
          <div xml:id="E-12-13" n="654" type="E-12-13">
@@ -62564,7 +62564,7 @@
              <graphic url="tn_E-12-13.JPG"/>
            </figure>
            <figure type="photos_big_ref">
-             <graphic url=""/>
+             <graphic url="E-12-13.JPG"/>
            </figure>
          </div>
          <div xml:id="E-12-14" n="655" type="E-12-14">
@@ -62650,7 +62650,7 @@
              <graphic url="tn_E-12-14.JPG"/>
            </figure>
            <figure type="photos_big_ref">
-             <graphic url=""/>
+             <graphic url="E-12-14.JPG"/>
            </figure>
          </div>
          <div xml:id="E-12-15" n="656" type="E-12-15">
@@ -71782,7 +71782,7 @@
              <graphic url="tn_F-12-13.jpg"/>
            </figure>
            <figure type="photos_big_ref">
-             <graphic url=""/>
+             <graphic url="F-12-13.JPG"/>
            </figure>
          </div>
        </div>
