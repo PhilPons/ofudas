@@ -1,4 +1,4 @@
-<?xml-model href="../schema/ofuda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="ofuda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="BF">
   <teiHeader>
     <fileDesc>
@@ -74355,7 +74355,7 @@
              <head xml:lang="fr">Identification</head>
                     <head xml:lang="ja">尊格名</head>
              <ab xml:lang="fr">
-               <hi rend="italic">Goô hôin</hi>, ou<hi rend="italic">Nachiryû hôin</hi>avec contrat écrit verso (<hi rend="italic">kishômon</hi>), daté de 1759 (Hôreki, 9).</ab>
+               <hi rend="italic">Goô hôin</hi>, ou <hi rend="italic">Nachiryû hôin</hi> avec contrat écrit verso (<hi rend="italic">kishômon</hi>), daté de 1759 (Hôreki, 9).</ab>
              <ab xml:lang="ja">那智瀧宝印</ab>
            </div>
            <div type="provenance">
