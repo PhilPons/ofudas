@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ofuda Odd</title>
+                <author>Philippe Pons</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished first draft</p>
+            </publicationStmt>
+            <notesStmt>
+                <note type="ns">http://www.example.org/ns/nonTEI</note>
+            </notesStmt>
+            <sourceDesc>
+                <p>Derived from an analysis of 3 files from
+                    /home/ppons/Bureau/ofuda_XQ/webapp/static/TEI/ofuda</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <schemaSpec ident="ofuda" start="TEI " prefix="" docLang="fr">
+                <moduleRef key="tei"/>
+                <!--Checking module textcrit-->
+                <classRef key="att.textCritical"/>
+                <classRef key="model.rdgLike"/>
+                <classRef key="model.rdgPart"/>
+                <classSpec ident="att.textCritical" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                        <attDef ident="cause" mode="delete"/>
+                        <attDef ident="varSeq" mode="delete"/>
+                        <attDef ident="require" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <!--Checking module msdescription-->
+                <classRef key="model.physDescPart"/>
+                <!--Checking module namesdates-->
+                <classRef key="model.persNamePart"/>
+                <moduleRef key="namesdates" include="surname forename nameLink"/>
+                <elementSpec ident="surname" mode="change">
+                    <attList>
+                        <attDef ident="role" mode="delete"/>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="forename" mode="change">
+                    <attList>
+                        <attDef ident="role" mode="delete"/>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="nameLink" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <!--Checking module dictionaries-->
+                <classRef key="att.lexicographic"/>
+                <classRef key="model.entryLike"/>
+                <classRef key="model.formPart"/>
+                <classRef key="model.gramPart"/>
+                <classRef key="model.lexicalRefinement"/>
+                <classRef key="model.morphLike"/>
+                <classRef key="model.ptrLike.form"/>
+                <moduleRef key="dictionaries" include="entry form orth def"/>
+                <elementSpec ident="form" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="orth" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <classSpec ident="att.lexicographic" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="expand" mode="delete"/>
+                        <attDef ident="norm" mode="delete"/>
+                        <attDef ident="split" mode="delete"/>
+                        <attDef ident="value" mode="delete"/>
+                        <attDef ident="orig" mode="delete"/>
+                        <attDef ident="location" mode="delete"/>
+                        <attDef ident="mergedIn" mode="delete"/>
+                        <attDef ident="opt" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <!--Checking module tagdocs-->
+                <classRef key="att.combinable"/>
+                <classRef key="att.identified"/>
+                <classRef key="model.contentPart"/>
+                <classSpec ident="att.combinable" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="mode" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.identified" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="ident" mode="delete"/>
+                        <attDef ident="predeclare" mode="delete"/>
+                        <attDef ident="module" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.ascribed.directed" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="toWhom" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.dimensions" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="unit" mode="delete"/>
+                        <attDef ident="quantity" mode="delete"/>
+                        <attDef ident="extent" mode="delete"/>
+                        <attDef ident="precision" mode="delete"/>
+                        <attDef ident="scope" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.damaged" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="agent" mode="delete"/>
+                        <attDef ident="degree" mode="delete"/>
+                        <attDef ident="group" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.datable.w3c" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="notBefore" mode="delete"/>
+                        <attDef ident="notAfter" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.datable" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="calendar" mode="delete"/>
+                        <attDef ident="period" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.divLike" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="org" mode="delete"/>
+                        <attDef ident="sample" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.media" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="width" mode="delete"/>
+                        <attDef ident="height" mode="delete"/>
+                        <attDef ident="scale" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.measurement" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="quantity" mode="delete"/>
+                        <attDef ident="commodity" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.naming" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="nymRef" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.typed" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="subtype" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.pointing" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="targetLang" mode="delete"/>
+                        <attDef ident="evaluate" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.pointing.group" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="domains" mode="delete"/>
+                        <attDef ident="targFunc" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.segLike" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="function" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.timed" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="start" mode="delete"/>
+                        <attDef ident="end" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.transcriptional" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="status" mode="delete"/>
+                        <attDef ident="cause" mode="delete"/>
+                        <attDef ident="seq" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <classSpec ident="att.personal" type="atts" mode="change">
+                    <attList>
+                        <attDef ident="full" mode="delete"/>
+                        <attDef ident="sort" mode="delete"/>
+                    </attList>
+                </classSpec>
+                <!--Checking module core-->
+                <moduleRef key="core"
+                    include="p hi desc name address addrLine measure date ptr ref list item head note graphic lb analytic monogr series author editor title imprint publisher biblScope pubPlace biblStruct listBibl"/>
+                <elementSpec ident="desc" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="name" mode="change">
+                    <attList>
+                        <attDef ident="role" mode="delete"/>
+                        <attDef ident="when" mode="delete"/>
+                        <attDef ident="from" mode="delete"/>
+                        <attDef ident="to" mode="delete"/>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="measure" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="date" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="ptr" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="ofuda"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="ref" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="ofudaLink"/>
+                                <valItem ident="externe"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="list" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="head" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="note" mode="change">
+                    <attList>
+                        <attDef ident="anchored" mode="delete"/>
+                        <attDef ident="targetEnd" mode="delete"/>
+                        <attDef ident="target" mode="delete"/>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="lb" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="editor" mode="change">
+                    <attList>
+                        <attDef ident="role" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="title" mode="change">
+                    <attList>
+                        <attDef ident="level" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="a"/>
+                                <valItem ident="j"/>
+                                <valItem ident="m"/>
+                            </valList>
+                        </attDef>
+                        <attDef ident="type" mode="delete"/>
+                        <attDef ident="type" mode="delete"/>
+                        <attDef ident="when" mode="delete"/>
+                        <attDef ident="from" mode="delete"/>
+                        <attDef ident="to" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="pubPlace" mode="change">
+                    <attList>
+                        <attDef ident="role" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="biblStruct" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="listBibl" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <!--Checking module figures-->
+                <moduleRef key="figures" include="figure"/>
+                <elementSpec ident="figure" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="photos_big_ref"/>
+                                <valItem ident="photos_small_ref"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+                <!--Checking module header-->
+                <moduleRef key="header"
+                    include="teiHeader fileDesc titleStmt edition extent publicationStmt distributor authority idno availability sourceDesc"/>
+                <elementSpec ident="idno" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="ISBN"/>
+                            </valList>
+                        </attDef>
+                        <attDef ident="when" mode="delete"/>
+                        <attDef ident="from" mode="delete"/>
+                        <attDef ident="to" mode="delete"/>
+                        <attDef ident="type" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="ISBN"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="availability" mode="change">
+                    <attList>
+                        <attDef ident="status" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="free"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+                <!--Checking module verse-->
+                <!--Checking module transcr-->
+                <!--Checking module linking-->
+                <moduleRef key="linking" include="linkGrp ab"/>
+                <elementSpec ident="linkGrp" mode="change">
+                    <attList>
+                        <attDef ident="target" mode="delete"/>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="ab" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="c_hauteur"/>
+                                <valItem ident="c_largeur"/>
+                                <valItem ident="hc_hauteur"/>
+                                <valItem ident="hc_largeur"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+                <!--Checking module analysis-->
+                <!--Checking module textstructure-->
+                <moduleRef key="textstructure" include="TEI text body div front"/>
+                <elementSpec ident="TEI" mode="change">
+                    <attList>
+                        <attDef ident="version" mode="delete"/>
+                        <attDef ident="type" mode="delete"/>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="text" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="frank"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+                <elementSpec ident="div" mode="change">
+                    <attList>
+                        <attDef ident="type" mode="change">
+                            <valList mode="add" type="closed">
+                                <valItem ident="A-01-01"/>
+                                <valItem ident="A-01-02"/>
+                                <valItem ident="A-01-03"/>
+                                <valItem ident="A-01-04"/>
+                                <valItem ident="A-01-05"/>
+                                <valItem ident="A-01-06"/>
+                                <valItem ident="A-01-07"/>
+                                <valItem ident="A-01-08"/>
+                                <valItem ident="A-01-09"/>
+                                <valItem ident="A-01-10"/>
+                                <valItem ident="A-01-11"/>
+                                <valItem ident="A-01-12"/>
+                                <valItem ident="A-01-14"/>
+                                <valItem ident="A-02-01"/>
+                                <valItem ident="A-02-02"/>
+                                <valItem ident="A-02-03"/>
+                                <valItem ident="A-02-04"/>
+                                <valItem ident="A-02-05"/>
+                                <valItem ident="A-02-06"/>
+                                <valItem ident="A-02-07"/>
+                                <valItem ident="A-02-08"/>
+                                <valItem ident="A-02-09"/>
+                                <valItem ident="A-02-10"/>
+                                <valItem ident="A-02-11"/>
+                                <valItem ident="A-02-12"/>
+                                <valItem ident="A-02-13"/>
+                                <valItem ident="A-02-14"/>
+                                <valItem ident="A-02-15"/>
+                                <valItem ident="A-02-16"/>
+                                <valItem ident="A-02-17"/>
+                                <valItem ident="A-02-18"/>
+                                <valItem ident="A-02-19"/>
+                                <valItem ident="A-02-20"/>
+                                <valItem ident="A-02-21"/>
+                                <valItem ident="A-02-22"/>
+                                <valItem ident="A-02-23"/>
+                                <valItem ident="A-02-24"/>
+                                <valItem ident="A-02-25"/>
+                                <valItem ident="A-02-26"/>
+                                <valItem ident="A-02-27"/>
+                                <valItem ident="A-02-28"/>
+                                <valItem ident="A-02-29"/>
+                                <valItem ident="A-03-01"/>
+                                <valItem ident="A-03-02"/>
+                                <valItem ident="A-03-03"/>
+                                <valItem ident="A-03-04"/>
+                                <valItem ident="A-03-05"/>
+                                <valItem ident="A-03-06"/>
+                                <valItem ident="A-03-07"/>
+                                <valItem ident="A-03-08"/>
+                                <valItem ident="A-03-09"/>
+                                <valItem ident="A-03-10"/>
+                                <valItem ident="A-03-11"/>
+                                <valItem ident="A-03-12"/>
+                                <valItem ident="A-03-13"/>
+                                <valItem ident="A-03-14"/>
+                                <valItem ident="A-03-15"/>
+                                <valItem ident="A-03-16"/>
+                                <valItem ident="A-03-17"/>
+                                <valItem ident="A-03-18"/>
+                                <valItem ident="A-03-19"/>
+                                <valItem ident="A-03-20"/>
+                                <valItem ident="A-03-21"/>
+                                <valItem ident="A-03-22"/>
+                                <valItem ident="A-03-23"/>
+                                <valItem ident="A-03-24"/>
+                                <valItem ident="A-03-25"/>
+                                <valItem ident="A-03-26"/>
+                                <valItem ident="A-03-27"/>
+                                <valItem ident="A-03-28"/>
+                                <valItem ident="A-03-29"/>
+                                <valItem ident="A-04-01"/>
+                                <valItem ident="A-04-02"/>
+                                <valItem ident="A-04-03"/>
+                                <valItem ident="A-04-04"/>
+                                <valItem ident="A-04-05"/>
+                                <valItem ident="A-04-06"/>
+                                <valItem ident="A-04-07"/>
+                                <valItem ident="A-04-08"/>
+                                <valItem ident="A-04-09"/>
+                                <valItem ident="A-04-10"/>
+                                <valItem ident="A-04-11"/>
+                                <valItem ident="A-04-12"/>
+                                <valItem ident="A-04-13"/>
+                                <valItem ident="B-01-01"/>
+                                <valItem ident="B-01-02"/>
+                                <valItem ident="B-01-03"/>
+                                <valItem ident="B-01-04"/>
+                                <valItem ident="B-02-01"/>
+                                <valItem ident="B-02-02"/>
+                                <valItem ident="B-02-03"/>
+                                <valItem ident="B-02-04"/>
+                                <valItem ident="B-02-05"/>
+                                <valItem ident="B-02-06"/>
+                                <valItem ident="B-02-07"/>
+                                <valItem ident="B-02-08"/>
+                                <valItem ident="B-02-09"/>
+                                <valItem ident="B-02-10"/>
+                                <valItem ident="B-02-100"/>
+                                <valItem ident="B-02-101"/>
+                                <valItem ident="B-02-102"/>
+                                <valItem ident="B-02-103"/>
+                                <valItem ident="B-02-104"/>
+                                <valItem ident="B-02-105"/>
+                                <valItem ident="B-02-106"/>
+                                <valItem ident="B-02-107"/>
+                                <valItem ident="B-02-108"/>
+                                <valItem ident="B-02-109"/>
+                                <valItem ident="B-02-11"/>
+                                <valItem ident="B-02-110"/>
+                                <valItem ident="B-02-111"/>
+                                <valItem ident="B-02-112"/>
+                                <valItem ident="B-02-113"/>
+                                <valItem ident="B-02-114"/>
+                                <valItem ident="B-02-115"/>
+                                <valItem ident="B-02-116"/>
+                                <valItem ident="B-02-117"/>
+                                <valItem ident="B-02-118"/>
+                                <valItem ident="B-02-119"/>
+                                <valItem ident="B-02-12"/>
+                                <valItem ident="B-02-120"/>
+                                <valItem ident="B-02-121"/>
+                                <valItem ident="B-02-122"/>
+                                <valItem ident="B-02-123"/>
+                                <valItem ident="B-02-124"/>
+                                <valItem ident="B-02-125"/>
+                                <valItem ident="B-02-126"/>
+                                <valItem ident="B-02-127"/>
+                                <valItem ident="B-02-128"/>
+                                <valItem ident="B-02-129"/>
+                                <valItem ident="B-02-13"/>
+                                <valItem ident="B-02-130"/>
+                                <valItem ident="B-02-131"/>
+                                <valItem ident="B-02-132"/>
+                                <valItem ident="B-02-133"/>
+                                <valItem ident="B-02-134"/>
+                                <valItem ident="B-02-135"/>
+                                <valItem ident="B-02-136"/>
+                                <valItem ident="B-02-137"/>
+                                <valItem ident="B-02-138"/>
+                                <valItem ident="B-02-139"/>
+                                <valItem ident="B-02-14"/>
+                                <valItem ident="B-02-140"/>
+                                <valItem ident="B-02-141"/>
+                                <valItem ident="B-02-142"/>
+                                <valItem ident="B-02-143"/>
+                                <valItem ident="B-02-144"/>
+                                <valItem ident="B-02-145"/>
+                                <valItem ident="B-02-146"/>
+                                <valItem ident="B-02-147"/>
+                                <valItem ident="B-02-149"/>
+                                <valItem ident="B-02-15"/>
+                                <valItem ident="B-02-150"/>
+                                <valItem ident="B-02-151"/>
+                                <valItem ident="B-02-152"/>
+                                <valItem ident="B-02-153"/>
+                                <valItem ident="B-02-154"/>
+                                <valItem ident="B-02-155"/>
+                                <valItem ident="B-02-156"/>
+                                <valItem ident="B-02-157"/>
+                                <valItem ident="B-02-158"/>
+                                <valItem ident="B-02-159"/>
+                                <valItem ident="B-02-16"/>
+                                <valItem ident="B-02-160"/>
+                                <valItem ident="B-02-161"/>
+                                <valItem ident="B-02-162"/>
+                                <valItem ident="B-02-163"/>
+                                <valItem ident="B-02-164"/>
+                                <valItem ident="B-02-165"/>
+                                <valItem ident="B-02-166"/>
+                                <valItem ident="B-02-17"/>
+                                <valItem ident="B-02-18"/>
+                                <valItem ident="B-02-19"/>
+                                <valItem ident="B-02-20"/>
+                                <valItem ident="B-02-21"/>
+                                <valItem ident="B-02-22"/>
+                                <valItem ident="B-02-23"/>
+                                <valItem ident="B-02-24"/>
+                                <valItem ident="B-02-25"/>
+                                <valItem ident="B-02-26"/>
+                                <valItem ident="B-02-27"/>
+                                <valItem ident="B-02-28"/>
+                                <valItem ident="B-02-29"/>
+                                <valItem ident="B-02-30"/>
+                                <valItem ident="B-02-31"/>
+                                <valItem ident="B-02-32"/>
+                                <valItem ident="B-02-33"/>
+                                <valItem ident="B-02-34"/>
+                                <valItem ident="B-02-35"/>
+                                <valItem ident="B-02-36"/>
+                                <valItem ident="B-02-37"/>
+                                <valItem ident="B-02-38"/>
+                                <valItem ident="B-02-39"/>
+                                <valItem ident="B-02-40"/>
+                                <valItem ident="B-02-41"/>
+                                <valItem ident="B-02-42"/>
+                                <valItem ident="B-02-43"/>
+                                <valItem ident="B-02-44"/>
+                                <valItem ident="B-02-45"/>
+                                <valItem ident="B-02-46"/>
+                                <valItem ident="B-02-47"/>
+                                <valItem ident="B-02-48"/>
+                                <valItem ident="B-02-49"/>
+                                <valItem ident="B-02-50"/>
+                                <valItem ident="B-02-51"/>
+                                <valItem ident="B-02-52"/>
+                                <valItem ident="B-02-53"/>
+                                <valItem ident="B-02-54"/>
+                                <valItem ident="B-02-55"/>
+                                <valItem ident="B-02-56"/>
+                                <valItem ident="B-02-57"/>
+                                <valItem ident="B-02-58"/>
+                                <valItem ident="B-02-59"/>
+                                <valItem ident="B-02-60"/>
+                                <valItem ident="B-02-61"/>
+                                <valItem ident="B-02-62"/>
+                                <valItem ident="B-02-63"/>
+                                <valItem ident="B-02-64"/>
+                                <valItem ident="B-02-65"/>
+                                <valItem ident="B-02-66"/>
+                                <valItem ident="B-02-67"/>
+                                <valItem ident="B-02-68"/>
+                                <valItem ident="B-02-69"/>
+                                <valItem ident="B-02-70"/>
+                                <valItem ident="B-02-71"/>
+                                <valItem ident="B-02-72"/>
+                                <valItem ident="B-02-73"/>
+                                <valItem ident="B-02-74"/>
+                                <valItem ident="B-02-75"/>
+                                <valItem ident="B-02-76"/>
+                                <valItem ident="B-02-77"/>
+                                <valItem ident="B-02-78"/>
+                                <valItem ident="B-02-79"/>
+                                <valItem ident="B-02-80"/>
+                                <valItem ident="B-02-81"/>
+                                <valItem ident="B-02-82"/>
+                                <valItem ident="B-02-83"/>
+                                <valItem ident="B-02-84"/>
+                                <valItem ident="B-02-85"/>
+                                <valItem ident="B-02-86"/>
+                                <valItem ident="B-02-87"/>
+                                <valItem ident="B-02-88"/>
+                                <valItem ident="B-02-89"/>
+                                <valItem ident="B-02-90"/>
+                                <valItem ident="B-02-91"/>
+                                <valItem ident="B-02-92"/>
+                                <valItem ident="B-02-93"/>
+                                <valItem ident="B-02-94"/>
+                                <valItem ident="B-02-95"/>
+                                <valItem ident="B-02-96"/>
+                                <valItem ident="B-02-97"/>
+                                <valItem ident="B-02-98"/>
+                                <valItem ident="B-02-99"/>
+                                <valItem ident="B-03-01"/>
+                                <valItem ident="B-03-02"/>
+                                <valItem ident="B-03-03"/>
+                                <valItem ident="B-03-04"/>
+                                <valItem ident="B-03-05"/>
+                                <valItem ident="B-04-01"/>
+                                <valItem ident="B-04-02"/>
+                                <valItem ident="B-04-03"/>
+                                <valItem ident="B-04-04"/>
+                                <valItem ident="B-04-05"/>
+                                <valItem ident="B-04-06"/>
+                                <valItem ident="B-04-07"/>
+                                <valItem ident="B-04-08"/>
+                                <valItem ident="B-04-09"/>
+                                <valItem ident="B-04-10"/>
+                                <valItem ident="B-04-11"/>
+                                <valItem ident="B-04-12"/>
+                                <valItem ident="B-04-13"/>
+                                <valItem ident="B-04-14"/>
+                                <valItem ident="B-04-15"/>
+                                <valItem ident="B-04-16"/>
+                                <valItem ident="B-04-17"/>
+                                <valItem ident="B-04-18"/>
+                                <valItem ident="B-04-19"/>
+                                <valItem ident="B-04-20"/>
+                                <valItem ident="B-05-01"/>
+                                <valItem ident="B-05-02"/>
+                                <valItem ident="B-05-04"/>
+                                <valItem ident="B-05-05"/>
+                                <valItem ident="B-05-06"/>
+                                <valItem ident="B-05-07"/>
+                                <valItem ident="B-05-08"/>
+                                <valItem ident="B-05-09"/>
+                                <valItem ident="B-05-10"/>
+                                <valItem ident="B-05-11"/>
+                                <valItem ident="B-05-12"/>
+                                <valItem ident="B-05-13"/>
+                                <valItem ident="B-05-14"/>
+                                <valItem ident="B-05-15"/>
+                                <valItem ident="B-05-16"/>
+                                <valItem ident="B-05-17"/>
+                                <valItem ident="B-05-18"/>
+                                <valItem ident="B-05-19"/>
+                                <valItem ident="B-05-20"/>
+                                <valItem ident="B-05-21"/>
+                                <valItem ident="B-05-22"/>
+                                <valItem ident="B-06-01"/>
+                                <valItem ident="B-06-02"/>
+                                <valItem ident="B-06-03"/>
+                                <valItem ident="B-06-04"/>
+                                <valItem ident="B-06-05"/>
+                                <valItem ident="B-06-06"/>
+                                <valItem ident="B-06-07"/>
+                                <valItem ident="B-06-08"/>
+                                <valItem ident="B-06-09"/>
+                                <valItem ident="B-06-10"/>
+                                <valItem ident="B-06-11"/>
+                                <valItem ident="B-06-12"/>
+                                <valItem ident="B-06-13"/>
+                                <valItem ident="B-06-14"/>
+                                <valItem ident="B-06-15"/>
+                                <valItem ident="B-06-16"/>
+                                <valItem ident="B-06-17"/>
+                                <valItem ident="B-06-18"/>
+                                <valItem ident="B-06-19"/>
+                                <valItem ident="B-06-20"/>
+                                <valItem ident="B-06-21"/>
+                                <valItem ident="B-06-22"/>
+                                <valItem ident="B-06-23"/>
+                                <valItem ident="B-06-24"/>
+                                <valItem ident="B-06-25"/>
+                                <valItem ident="B-06-26"/>
+                                <valItem ident="B-06-27"/>
+                                <valItem ident="B-06-28"/>
+                                <valItem ident="B-06-29"/>
+                                <valItem ident="B-06-30"/>
+                                <valItem ident="B-06-31"/>
+                                <valItem ident="B-06-32"/>
+                                <valItem ident="B-06-33"/>
+                                <valItem ident="B-06-34"/>
+                                <valItem ident="B-06-35"/>
+                                <valItem ident="B-06-36"/>
+                                <valItem ident="B-06-37"/>
+                                <valItem ident="B-06-38"/>
+                                <valItem ident="C-02-01"/>
+                                <valItem ident="C-02-02"/>
+                                <valItem ident="C-02-03"/>
+                                <valItem ident="C-02-04"/>
+                                <valItem ident="C-02-05"/>
+                                <valItem ident="C-03-01"/>
+                                <valItem ident="C-03-02"/>
+                                <valItem ident="C-03-03"/>
+                                <valItem ident="C-03-04"/>
+                                <valItem ident="C-03-05"/>
+                                <valItem ident="C-03-06"/>
+                                <valItem ident="C-03-07"/>
+                                <valItem ident="C-03-08"/>
+                                <valItem ident="C-03-10"/>
+                                <valItem ident="C-03-11"/>
+                                <valItem ident="C-03-12"/>
+                                <valItem ident="C-03-13"/>
+                                <valItem ident="C-03-14"/>
+                                <valItem ident="C-03-15"/>
+                                <valItem ident="C-03-16"/>
+                                <valItem ident="C-03-17"/>
+                                <valItem ident="C-03-18"/>
+                                <valItem ident="C-03-19"/>
+                                <valItem ident="C-03-20"/>
+                                <valItem ident="C-03-21"/>
+                                <valItem ident="C-03-22"/>
+                                <valItem ident="C-03-23"/>
+                                <valItem ident="C-03-24"/>
+                                <valItem ident="C-03-25"/>
+                                <valItem ident="C-03-26"/>
+                                <valItem ident="C-03-27"/>
+                                <valItem ident="C-03-28"/>
+                                <valItem ident="C-03-29"/>
+                                <valItem ident="C-03-30"/>
+                                <valItem ident="C-03-31"/>
+                                <valItem ident="C-03-32"/>
+                                <valItem ident="C-03-33"/>
+                                <valItem ident="C-03-34"/>
+                                <valItem ident="C-03-35"/>
+                                <valItem ident="C-03-36"/>
+                                <valItem ident="C-03-37"/>
+                                <valItem ident="C-03-38"/>
+                                <valItem ident="C-03-39"/>
+                                <valItem ident="C-03-40"/>
+                                <valItem ident="C-03-41"/>
+                                <valItem ident="C-03-42"/>
+                                <valItem ident="C-03-43"/>
+                                <valItem ident="C-03-44"/>
+                                <valItem ident="C-03-45"/>
+                                <valItem ident="C-03-46"/>
+                                <valItem ident="C-03-47"/>
+                                <valItem ident="C-03-48"/>
+                                <valItem ident="C-03-49"/>
+                                <valItem ident="C-03-50"/>
+                                <valItem ident="C-03-51"/>
+                                <valItem ident="C-03-52"/>
+                                <valItem ident="C-03-53"/>
+                                <valItem ident="C-03-54"/>
+                                <valItem ident="C-03-55"/>
+                                <valItem ident="C-04-01"/>
+                                <valItem ident="C-04-02"/>
+                                <valItem ident="C-04-03"/>
+                                <valItem ident="C-04-04"/>
+                                <valItem ident="C-04-05"/>
+                                <valItem ident="C-04-06"/>
+                                <valItem ident="C-04-07"/>
+                                <valItem ident="C-05-01"/>
+                                <valItem ident="C-05-02"/>
+                                <valItem ident="C-05-03"/>
+                                <valItem ident="C-05-04"/>
+                                <valItem ident="C-05-05"/>
+                                <valItem ident="C-05-06"/>
+                                <valItem ident="C-05-07"/>
+                                <valItem ident="C-05-08"/>
+                                <valItem ident="C-05-09"/>
+                                <valItem ident="C-06-01"/>
+                                <valItem ident="C-07-01"/>
+                                <valItem ident="C-07-02"/>
+                                <valItem ident="C-07-03"/>
+                                <valItem ident="C-07-04"/>
+                                <valItem ident="C-07-05"/>
+                                <valItem ident="C-07-07"/>
+                                <valItem ident="C-07-08"/>
+                                <valItem ident="C-07-09"/>
+                                <valItem ident="C-07-10"/>
+                                <valItem ident="D-02-01"/>
+                                <valItem ident="D-02-02"/>
+                                <valItem ident="D-02-03"/>
+                                <valItem ident="D-02-04"/>
+                                <valItem ident="D-02-167"/>
+                                <valItem ident="D-04-01"/>
+                                <valItem ident="D-04-02"/>
+                                <valItem ident="D-04-03"/>
+                                <valItem ident="D-04-04"/>
+                                <valItem ident="D-04-05"/>
+                                <valItem ident="D-04-06"/>
+                                <valItem ident="D-04-07"/>
+                                <valItem ident="D-04-08"/>
+                                <valItem ident="D-04-09"/>
+                                <valItem ident="D-04-10"/>
+                                <valItem ident="D-04-11"/>
+                                <valItem ident="D-04-12"/>
+                                <valItem ident="D-04-14"/>
+                                <valItem ident="D-04-15"/>
+                                <valItem ident="D-04-16"/>
+                                <valItem ident="D-04-17"/>
+                                <valItem ident="D-04-18"/>
+                                <valItem ident="D-04-19"/>
+                                <valItem ident="D-04-20"/>
+                                <valItem ident="D-04-21"/>
+                                <valItem ident="D-04-22"/>
+                                <valItem ident="D-04-23"/>
+                                <valItem ident="D-05-01"/>
+                                <valItem ident="D-05-02"/>
+                                <valItem ident="D-05-03"/>
+                                <valItem ident="D-05-04"/>
+                                <valItem ident="D-05-05"/>
+                                <valItem ident="D-05-06"/>
+                                <valItem ident="D-05-07"/>
+                                <valItem ident="D-05-08"/>
+                                <valItem ident="D-05-09"/>
+                                <valItem ident="D-05-10"/>
+                                <valItem ident="D-05-11"/>
+                                <valItem ident="D-05-12"/>
+                                <valItem ident="D-05-13"/>
+                                <valItem ident="D-05-14"/>
+                                <valItem ident="D-05-15"/>
+                                <valItem ident="D-05-16"/>
+                                <valItem ident="D-05-17"/>
+                                <valItem ident="D-05-18"/>
+                                <valItem ident="D-05-19"/>
+                                <valItem ident="D-05-20"/>
+                                <valItem ident="D-05-21"/>
+                                <valItem ident="D-05-22"/>
+                                <valItem ident="D-05-23"/>
+                                <valItem ident="D-05-24"/>
+                                <valItem ident="D-05-25"/>
+                                <valItem ident="D-05-26"/>
+                                <valItem ident="D-05-27"/>
+                                <valItem ident="D-05-28"/>
+                                <valItem ident="D-05-29"/>
+                                <valItem ident="D-05-30"/>
+                                <valItem ident="D-05-31"/>
+                                <valItem ident="D-05-32"/>
+                                <valItem ident="D-05-33"/>
+                                <valItem ident="D-05-34"/>
+                                <valItem ident="D-05-35"/>
+                                <valItem ident="D-05-36"/>
+                                <valItem ident="D-05-37"/>
+                                <valItem ident="D-06-01"/>
+                                <valItem ident="D-06-02"/>
+                                <valItem ident="D-06-03"/>
+                                <valItem ident="D-06-04"/>
+                                <valItem ident="D-06-05"/>
+                                <valItem ident="D-06-06"/>
+                                <valItem ident="D-06-07"/>
+                                <valItem ident="D-06-08"/>
+                                <valItem ident="D-06-09"/>
+                                <valItem ident="D-06-10"/>
+                                <valItem ident="D-06-11"/>
+                                <valItem ident="D-06-12"/>
+                                <valItem ident="D-06-13"/>
+                                <valItem ident="D-06-14"/>
+                                <valItem ident="D-06-15"/>
+                                <valItem ident="D-06-16"/>
+                                <valItem ident="D-06-17"/>
+                                <valItem ident="D-06-18"/>
+                                <valItem ident="D-06-19"/>
+                                <valItem ident="D-06-20"/>
+                                <valItem ident="D-06-21"/>
+                                <valItem ident="D-06-22"/>
+                                <valItem ident="D-06-23"/>
+                                <valItem ident="D-06-24"/>
+                                <valItem ident="D-06-25"/>
+                                <valItem ident="D-06-26"/>
+                                <valItem ident="D-06-27"/>
+                                <valItem ident="D-06-28"/>
+                                <valItem ident="D-06-29"/>
+                                <valItem ident="D-06-30"/>
+                                <valItem ident="D-06-31"/>
+                                <valItem ident="D-06-32"/>
+                                <valItem ident="D-06-33"/>
+                                <valItem ident="D-06-34"/>
+                                <valItem ident="D-06-35"/>
+                                <valItem ident="D-06-36"/>
+                                <valItem ident="D-06-37"/>
+                                <valItem ident="D-06-38"/>
+                                <valItem ident="D-06-39"/>
+                                <valItem ident="D-06-40"/>
+                                <valItem ident="D-06-41"/>
+                                <valItem ident="D-06-42"/>
+                                <valItem ident="D-06-43"/>
+                                <valItem ident="D-06-44"/>
+                                <valItem ident="D-06-45"/>
+                                <valItem ident="D-06-46"/>
+                                <valItem ident="D-06-47"/>
+                                <valItem ident="D-07-01"/>
+                                <valItem ident="D-07-02"/>
+                                <valItem ident="D-07-03"/>
+                                <valItem ident="D-08-01"/>
+                                <valItem ident="D-08-02"/>
+                                <valItem ident="D-08-03"/>
+                                <valItem ident="D-08-04"/>
+                                <valItem ident="D-08-05"/>
+                                <valItem ident="D-08-06"/>
+                                <valItem ident="D-08-07"/>
+                                <valItem ident="D-08-08"/>
+                                <valItem ident="D-08-09"/>
+                                <valItem ident="D-08-10"/>
+                                <valItem ident="D-08-11"/>
+                                <valItem ident="D-08-12"/>
+                                <valItem ident="D-08-13"/>
+                                <valItem ident="D-09-01"/>
+                                <valItem ident="D-09-02"/>
+                                <valItem ident="D-09-03"/>
+                                <valItem ident="D-09-04"/>
+                                <valItem ident="D-09-05"/>
+                                <valItem ident="D-10-01"/>
+                                <valItem ident="D-10-02"/>
+                                <valItem ident="D-10-03"/>
+                                <valItem ident="D-10-04"/>
+                                <valItem ident="D-10-05"/>
+                                <valItem ident="D-10-06"/>
+                                <valItem ident="D-11-01"/>
+                                <valItem ident="D-11-02"/>
+                                <valItem ident="D-11-03"/>
+                                <valItem ident="D-11-04"/>
+                                <valItem ident="D-11-05"/>
+                                <valItem ident="D-11-06"/>
+                                <valItem ident="D-11-07"/>
+                                <valItem ident="D-11-08"/>
+                                <valItem ident="D-11-09"/>
+                                <valItem ident="D-11-10"/>
+                                <valItem ident="D-11-11"/>
+                                <valItem ident="D-11-12"/>
+                                <valItem ident="D-11-13"/>
+                                <valItem ident="D-11-14"/>
+                                <valItem ident="D-11-15"/>
+                                <valItem ident="D-11-16"/>
+                                <valItem ident="D-11-17"/>
+                                <valItem ident="D-11-18"/>
+                                <valItem ident="D-11-19"/>
+                                <valItem ident="D-11-20"/>
+                                <valItem ident="D-11-21"/>
+                                <valItem ident="D-12-01"/>
+                                <valItem ident="D-12-02"/>
+                                <valItem ident="D-12-03"/>
+                                <valItem ident="D-13-01"/>
+                                <valItem ident="D-13-02"/>
+                                <valItem ident="D-13-03"/>
+                                <valItem ident="D-14-01"/>
+                                <valItem ident="D-14-02"/>
+                                <valItem ident="D-14-03"/>
+                                <valItem ident="D-14-04"/>
+                                <valItem ident="D-14-05"/>
+                                <valItem ident="D-16-01"/>
+                                <valItem ident="D-16-02"/>
+                                <valItem ident="D-16-03"/>
+                                <valItem ident="D-16-04"/>
+                                <valItem ident="D-16-05"/>
+                                <valItem ident="D-16-06"/>
+                                <valItem ident="D-17-01"/>
+                                <valItem ident="D-18-01"/>
+                                <valItem ident="D-18-02"/>
+                                <valItem ident="D-18-03"/>
+                                <valItem ident="D-19-01"/>
+                                <valItem ident="D-21-01"/>
+                                <valItem ident="D-21-02"/>
+                                <valItem ident="E-03-01"/>
+                                <valItem ident="E-03-02"/>
+                                <valItem ident="E-03-03"/>
+                                <valItem ident="E-03-04"/>
+                                <valItem ident="E-03-05"/>
+                                <valItem ident="E-03-06"/>
+                                <valItem ident="E-03-07"/>
+                                <valItem ident="E-03-08"/>
+                                <valItem ident="E-03-09"/>
+                                <valItem ident="E-03-10"/>
+                                <valItem ident="E-03-11"/>
+                                <valItem ident="E-03-12"/>
+                                <valItem ident="E-03-13"/>
+                                <valItem ident="E-03-14"/>
+                                <valItem ident="E-03-15"/>
+                                <valItem ident="E-03-16"/>
+                                <valItem ident="E-04-01"/>
+                                <valItem ident="E-04-02"/>
+                                <valItem ident="E-04-03"/>
+                                <valItem ident="E-04-04"/>
+                                <valItem ident="E-05-01"/>
+                                <valItem ident="E-05-02"/>
+                                <valItem ident="E-05-03"/>
+                                <valItem ident="E-05-04"/>
+                                <valItem ident="E-05-05"/>
+                                <valItem ident="E-05-b-01"/>
+                                <valItem ident="E-05-b-02"/>
+                                <valItem ident="E-05-b-03"/>
+                                <valItem ident="E-05-b-04"/>
+                                <valItem ident="E-05-b-05"/>
+                                <valItem ident="E-05-b-06"/>
+                                <valItem ident="E-05-b-07"/>
+                                <valItem ident="E-05-c-01"/>
+                                <valItem ident="E-05-c-02"/>
+                                <valItem ident="E-06-01"/>
+                                <valItem ident="E-06-02"/>
+                                <valItem ident="E-06-03"/>
+                                <valItem ident="E-06-04"/>
+                                <valItem ident="E-06-05"/>
+                                <valItem ident="E-07-01"/>
+                                <valItem ident="E-07-02"/>
+                                <valItem ident="E-07-03"/>
+                                <valItem ident="E-07-04"/>
+                                <valItem ident="E-09-01"/>
+                                <valItem ident="E-09-02"/>
+                                <valItem ident="E-09-03"/>
+                                <valItem ident="E-09-04"/>
+                                <valItem ident="E-09-05"/>
+                                <valItem ident="E-09-a-1"/>
+                                <valItem ident="E-09-a-2"/>
+                                <valItem ident="E-09-a-3"/>
+                                <valItem ident="E-09-a-4"/>
+                                <valItem ident="E-09-a-5"/>
+                                <valItem ident="E-09-a-7"/>
+                                <valItem ident="E-10-01"/>
+                                <valItem ident="E-10-02"/>
+                                <valItem ident="E-10-03"/>
+                                <valItem ident="E-11-01"/>
+                                <valItem ident="E-11-02"/>
+                                <valItem ident="E-11-03"/>
+                                <valItem ident="E-11-04"/>
+                                <valItem ident="E-11-05"/>
+                                <valItem ident="E-11-06"/>
+                                <valItem ident="E-11-07"/>
+                                <valItem ident="E-11-08"/>
+                                <valItem ident="E-11-09"/>
+                                <valItem ident="E-11-10"/>
+                                <valItem ident="E-11-11"/>
+                                <valItem ident="E-11-14"/>
+                                <valItem ident="E-11-16"/>
+                                <valItem ident="E-11-17"/>
+                                <valItem ident="E-11-18"/>
+                                <valItem ident="E-11-19"/>
+                                <valItem ident="E-11-20"/>
+                                <valItem ident="E-11-21"/>
+                                <valItem ident="E-11-22"/>
+                                <valItem ident="E-11-23"/>
+                                <valItem ident="E-11-24"/>
+                                <valItem ident="E-11-25"/>
+                                <valItem ident="E-11-26"/>
+                                <valItem ident="E-11-27"/>
+                                <valItem ident="E-11-28"/>
+                                <valItem ident="E-11-29"/>
+                                <valItem ident="E-11-31"/>
+                                <valItem ident="E-11-32"/>
+                                <valItem ident="E-11-35"/>
+                                <valItem ident="E-11-36"/>
+                                <valItem ident="E-11-37"/>
+                                <valItem ident="E-11-b-1"/>
+                                <valItem ident="E-11-b-2"/>
+                                <valItem ident="E-11-b-3"/>
+                                <valItem ident="E-12-01"/>
+                                <valItem ident="E-12-02"/>
+                                <valItem ident="E-12-03"/>
+                                <valItem ident="E-12-04"/>
+                                <valItem ident="E-12-05"/>
+                                <valItem ident="E-12-06"/>
+                                <valItem ident="E-12-07"/>
+                                <valItem ident="E-12-08"/>
+                                <valItem ident="E-12-09"/>
+                                <valItem ident="E-12-10"/>
+                                <valItem ident="E-12-11"/>
+                                <valItem ident="E-12-12"/>
+                                <valItem ident="E-12-13"/>
+                                <valItem ident="E-12-14"/>
+                                <valItem ident="E-12-15"/>
+                                <valItem ident="E-12-16"/>
+                                <valItem ident="E-12-17"/>
+                                <valItem ident="E-12-18"/>
+                                <valItem ident="E-12-19"/>
+                                <valItem ident="E-12-20"/>
+                                <valItem ident="E-12-21"/>
+                                <valItem ident="E-12-22"/>
+                                <valItem ident="E-12-23"/>
+                                <valItem ident="E-12-24"/>
+                                <valItem ident="E-12-4"/>
+                                <valItem ident="F-03-01"/>
+                                <valItem ident="F-03-02"/>
+                                <valItem ident="F-04-01"/>
+                                <valItem ident="F-04-02"/>
+                                <valItem ident="F-04-03"/>
+                                <valItem ident="F-04-04"/>
+                                <valItem ident="F-04-05"/>
+                                <valItem ident="F-04-06"/>
+                                <valItem ident="F-04-07"/>
+                                <valItem ident="F-04-08"/>
+                                <valItem ident="F-04-09"/>
+                                <valItem ident="F-05-01"/>
+                                <valItem ident="F-05-02"/>
+                                <valItem ident="F-05-03"/>
+                                <valItem ident="F-05-04"/>
+                                <valItem ident="F-05-05"/>
+                                <valItem ident="F-05-06"/>
+                                <valItem ident="F-05-07"/>
+                                <valItem ident="F-05-08"/>
+                                <valItem ident="F-06-01"/>
+                                <valItem ident="F-06-02"/>
+                                <valItem ident="F-07-01"/>
+                                <valItem ident="F-07-02"/>
+                                <valItem ident="F-07-03"/>
+                                <valItem ident="F-07-04"/>
+                                <valItem ident="F-07-05"/>
+                                <valItem ident="F-07-06"/>
+                                <valItem ident="F-07-07"/>
+                                <valItem ident="F-07-08"/>
+                                <valItem ident="F-07-09"/>
+                                <valItem ident="F-07-10"/>
+                                <valItem ident="F-07-11"/>
+                                <valItem ident="F-07-12"/>
+                                <valItem ident="F-07-13"/>
+                                <valItem ident="F-07-14"/>
+                                <valItem ident="F-07-15"/>
+                                <valItem ident="F-07-16"/>
+                                <valItem ident="F-07-17"/>
+                                <valItem ident="F-07-18"/>
+                                <valItem ident="F-07-19"/>
+                                <valItem ident="F-07-20"/>
+                                <valItem ident="F-07-21"/>
+                                <valItem ident="F-07-22"/>
+                                <valItem ident="F-07-23"/>
+                                <valItem ident="F-07-24"/>
+                                <valItem ident="F-07-25"/>
+                                <valItem ident="F-08-01"/>
+                                <valItem ident="F-08-02"/>
+                                <valItem ident="F-08-03"/>
+                                <valItem ident="F-08-04"/>
+                                <valItem ident="F-08-05"/>
+                                <valItem ident="F-08-06"/>
+                                <valItem ident="F-08-07"/>
+                                <valItem ident="F-08-08"/>
+                                <valItem ident="F-08-09"/>
+                                <valItem ident="F-08-10"/>
+                                <valItem ident="F-08-11"/>
+                                <valItem ident="F-08-12"/>
+                                <valItem ident="F-08-13"/>
+                                <valItem ident="F-08-14"/>
+                                <valItem ident="F-08-15"/>
+                                <valItem ident="F-08-16"/>
+                                <valItem ident="F-08-17"/>
+                                <valItem ident="F-08-18"/>
+                                <valItem ident="F-08-19"/>
+                                <valItem ident="F-08-20"/>
+                                <valItem ident="F-08-21"/>
+                                <valItem ident="F-08-22"/>
+                                <valItem ident="F-08-23"/>
+                                <valItem ident="F-08-24"/>
+                                <valItem ident="F-08-25"/>
+                                <valItem ident="F-08-26"/>
+                                <valItem ident="F-08-27"/>
+                                <valItem ident="F-08-28"/>
+                                <valItem ident="F-09-01"/>
+                                <valItem ident="F-10-01"/>
+                                <valItem ident="F-11-01"/>
+                                <valItem ident="F-11-02"/>
+                                <valItem ident="F-11-03"/>
+                                <valItem ident="F-12-01"/>
+                                <valItem ident="F-12-02"/>
+                                <valItem ident="F-12-03"/>
+                                <valItem ident="F-12-04"/>
+                                <valItem ident="F-12-05"/>
+                                <valItem ident="F-12-06"/>
+                                <valItem ident="F-12-07"/>
+                                <valItem ident="F-12-08"/>
+                                <valItem ident="F-12-09"/>
+                                <valItem ident="F-12-10"/>
+                                <valItem ident="F-12-11"/>
+                                <valItem ident="F-12-12"/>
+                                <valItem ident="F-12-13"/>
+                                <valItem ident="F-13-01"/>
+                                <valItem ident="F-13-02"/>
+                                <valItem ident="F-13-03"/>
+                                <valItem ident="F-13-04"/>
+                                <valItem ident="F-13-05"/>
+                                <valItem ident="F-13-06"/>
+                                <valItem ident="F-13-07"/>
+                                <valItem ident="F-13-08"/>
+                                <valItem ident="F-13-09"/>
+                                <valItem ident="F-13-10"/>
+                                <valItem ident="F-13-11"/>
+                                <valItem ident="F-13-12"/>
+                                <valItem ident="F-13-13"/>
+                                <valItem ident="F-13-14"/>
+                                <valItem ident="F-13-15"/>
+                                <valItem ident="G-02-01"/>
+                                <valItem ident="G-02-02"/>
+                                <valItem ident="G-02-03"/>
+                                <valItem ident="G-02-04"/>
+                                <valItem ident="G-02-05"/>
+                                <valItem ident="bouddhas"/>
+                                <valItem ident="categories"/>
+                                <valItem ident="description"/>
+                                <valItem ident="dimensions"/>
+                                <valItem ident="ecole"/>
+                                <valItem ident="fonction"/>
+                                <valItem ident="identification"/>
+                                <valItem ident="infos_diverses"/>
+                                <valItem ident="inscription"/>
+                                <valItem ident="legende"/>
+                                <valItem ident="ofuda"/>
+                                <valItem ident="particularite"/>
+                                <valItem ident="provenance"/>
+                                <valItem ident="references"/>
+                                <valItem ident="support"/>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+            </schemaSpec>
+            <p>Schéma ODD des données de la base Ofuda</p>
+        </body>
+    </text>
+</TEI>
