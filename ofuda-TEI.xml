@@ -1,9 +1,10 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<?xml-model href="../schema/ofuda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="BF">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <!--    caractère école: 宗    -->
-        <title>Base d'O-Fuda de Bernard Frank</title>
+        <title>Collection de Bernard Frank</title>
       </titleStmt>
       <publicationStmt>
         <authority>CRCAO - UMR 8155 (CNRS / PSL Research University / EPHE / U. Paris Diderot /
@@ -1146,7 +1147,7 @@
              <graphic url="tn_A-1-12.jpg"/>
            </figure>
            <figure type="photos_big_ref">
-             <graphic url=""/>
+             <graphic url="A-1-12.jpg"/>
            </figure>
          </div>
          <div xml:id="A-01-14" n="13" type="A-01-14">

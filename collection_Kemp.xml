@@ -1,0 +1,44 @@
+<?xml-model href="../schema/ofuda.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="JAK">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Collection de James Albert Kemp</title>
+          <author>
+              <surname>Kemp</surname>
+              <forename>Jim</forename>
+          </author>
+      </titleStmt>
+      <publicationStmt>
+        <authority>CRCAO - UMR 8155 (CNRS / PSL Research University / EPHE / U. Paris Diderot /
+          Collège de France)</authority>
+        <publisher>CRCAO - UMR 8155 (CNRS / PSL Research University / EPHE / U. Paris Diderot /
+          Collège de France)</publisher>
+        <address>
+          <addrLine>52 rue du Cardinal Lemoine</addrLine>
+          <addrLine>75005 Paris</addrLine>
+        </address>
+        <distributor>
+          <name>TGIR Huma-Num - UMS 3598</name>
+          <address>
+            <addrLine>54 boulevard Raspail</addrLine>
+            <addrLine>75006 Paris</addrLine>
+          </address>
+        </distributor>
+        <availability status="free">
+          <p>Ce texte est protégé par la licence <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative
+            Commons</ref> dont le contenu est disponible sous Creative Commons Attribution -Non
+            commercial - ShareAlike 4.0 France</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+          <p></p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+ <text n="2">
+     <body>
+         <div></div>
+     </body>
+ </text>
+</TEI>
